@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": 1782564166068,
+  "generatedAt": 1782569001472,
   "entries": {
     "Index@app/index.tsx:61": {
       "element": {
@@ -741,6 +741,6712 @@
               "col": 13,
               "endCol": 15,
               "raw": "10"
+            }
+          }
+        }
+      ]
+    },
+    "MessageBubble@app/(tabs)/assistant.tsx:15": {
+      "element": {
+        "file": "app/(tabs)/assistant.tsx",
+        "line": 15
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/assistant.tsx",
+          "properties": {
+            "maxWidth": {
+              "line": 17,
+              "col": 16,
+              "endCol": 21,
+              "raw": "'82%'"
+            },
+            "marginBottom": {
+              "line": 18,
+              "col": 20,
+              "endCol": 22,
+              "raw": "12"
+            }
+          }
+        }
+      ]
+    },
+    "MessageBubble@app/(tabs)/assistant.tsx:21": {
+      "element": {
+        "file": "app/(tabs)/assistant.tsx",
+        "line": 21
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/assistant.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 21,
+              "col": 38,
+              "endCol": 43,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 21,
+              "col": 57,
+              "endCol": 65,
+              "raw": "'center'"
+            },
+            "gap": {
+              "line": 21,
+              "col": 72,
+              "endCol": 73,
+              "raw": "6"
+            },
+            "marginBottom": {
+              "line": 21,
+              "col": 89,
+              "endCol": 90,
+              "raw": "4"
+            }
+          }
+        }
+      ]
+    },
+    "MessageBubble@app/(tabs)/assistant.tsx:22": {
+      "element": {
+        "file": "app/(tabs)/assistant.tsx",
+        "line": 22
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/assistant.tsx",
+          "properties": {
+            "width": {
+              "line": 23,
+              "col": 19,
+              "endCol": 21,
+              "raw": "22"
+            },
+            "height": {
+              "line": 24,
+              "col": 20,
+              "endCol": 22,
+              "raw": "22"
+            },
+            "borderRadius": {
+              "line": 25,
+              "col": 26,
+              "endCol": 28,
+              "raw": "11"
+            },
+            "alignItems": {
+              "line": 27,
+              "col": 24,
+              "endCol": 32,
+              "raw": "'center'"
+            },
+            "justifyContent": {
+              "line": 28,
+              "col": 28,
+              "endCol": 36,
+              "raw": "'center'"
+            }
+          }
+        }
+      ]
+    },
+    "MessageBubble@app/(tabs)/assistant.tsx:32": {
+      "element": {
+        "file": "app/(tabs)/assistant.tsx",
+        "line": 32
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/assistant.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 32,
+              "col": 61,
+              "endCol": 63,
+              "raw": "11"
+            }
+          }
+        }
+      ]
+    },
+    "MessageBubble@app/(tabs)/assistant.tsx:37": {
+      "element": {
+        "file": "app/(tabs)/assistant.tsx",
+        "line": 37
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/assistant.tsx",
+          "properties": {
+            "borderRadius": {
+              "line": 39,
+              "col": 22,
+              "endCol": 24,
+              "raw": "16"
+            },
+            "borderCurve": {
+              "line": 40,
+              "col": 21,
+              "endCol": 33,
+              "raw": "'continuous'"
+            },
+            "padding": {
+              "line": 41,
+              "col": 17,
+              "endCol": 19,
+              "raw": "14"
+            }
+          }
+        }
+      ]
+    },
+    "MessageBubble@app/(tabs)/assistant.tsx:48": {
+      "element": {
+        "file": "app/(tabs)/assistant.tsx",
+        "line": 48
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/assistant.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 50,
+              "col": 20,
+              "endCol": 22,
+              "raw": "14"
+            },
+            "lineHeight": {
+              "line": 52,
+              "col": 22,
+              "endCol": 24,
+              "raw": "20"
+            }
+          }
+        }
+      ]
+    },
+    "MessageBubble@app/(tabs)/assistant.tsx:57": {
+      "element": {
+        "file": "app/(tabs)/assistant.tsx",
+        "line": 57
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/assistant.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 59,
+              "col": 18,
+              "endCol": 20,
+              "raw": "10"
+            },
+            "marginTop": {
+              "line": 61,
+              "col": 19,
+              "endCol": 20,
+              "raw": "4"
+            },
+            "marginHorizontal": {
+              "line": 63,
+              "col": 26,
+              "endCol": 27,
+              "raw": "4"
+            }
+          }
+        }
+      ]
+    },
+    "AssistantScreen@app/(tabs)/assistant.tsx:164": {
+      "element": {
+        "file": "app/(tabs)/assistant.tsx",
+        "line": 164
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/assistant.tsx",
+          "properties": {
+            "flex": {
+              "line": 165,
+              "col": 21,
+              "endCol": 22,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "AssistantScreen@app/(tabs)/assistant.tsx:170": {
+      "element": {
+        "file": "app/(tabs)/assistant.tsx",
+        "line": 170
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/assistant.tsx",
+          "properties": {
+            "paddingHorizontal": {
+              "line": 172,
+              "col": 27,
+              "endCol": 29,
+              "raw": "20"
+            },
+            "paddingBottom": {
+              "line": 173,
+              "col": 23,
+              "endCol": 25,
+              "raw": "12"
+            },
+            "borderBottomWidth": {
+              "line": 175,
+              "col": 27,
+              "endCol": 28,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "AssistantScreen@app/(tabs)/assistant.tsx:178": {
+      "element": {
+        "file": "app/(tabs)/assistant.tsx",
+        "line": 178
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/assistant.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 178,
+              "col": 38,
+              "endCol": 43,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 178,
+              "col": 57,
+              "endCol": 65,
+              "raw": "'center'"
+            },
+            "gap": {
+              "line": 178,
+              "col": 72,
+              "endCol": 74,
+              "raw": "12"
+            }
+          }
+        }
+      ]
+    },
+    "AssistantScreen@app/(tabs)/assistant.tsx:179": {
+      "element": {
+        "file": "app/(tabs)/assistant.tsx",
+        "line": 179
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/assistant.tsx",
+          "properties": {
+            "width": {
+              "line": 180,
+              "col": 19,
+              "endCol": 21,
+              "raw": "38"
+            },
+            "height": {
+              "line": 181,
+              "col": 20,
+              "endCol": 22,
+              "raw": "38"
+            },
+            "borderRadius": {
+              "line": 182,
+              "col": 26,
+              "endCol": 28,
+              "raw": "12"
+            },
+            "borderCurve": {
+              "line": 183,
+              "col": 25,
+              "endCol": 37,
+              "raw": "'continuous'"
+            },
+            "alignItems": {
+              "line": 185,
+              "col": 24,
+              "endCol": 32,
+              "raw": "'center'"
+            },
+            "justifyContent": {
+              "line": 186,
+              "col": 28,
+              "endCol": 36,
+              "raw": "'center'"
+            }
+          }
+        }
+      ]
+    },
+    "AssistantScreen@app/(tabs)/assistant.tsx:191": {
+      "element": {
+        "file": "app/(tabs)/assistant.tsx",
+        "line": 191
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/assistant.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 191,
+              "col": 61,
+              "endCol": 63,
+              "raw": "17"
+            }
+          }
+        }
+      ]
+    },
+    "AssistantScreen@app/(tabs)/assistant.tsx:194": {
+      "element": {
+        "file": "app/(tabs)/assistant.tsx",
+        "line": 194
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/assistant.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 194,
+              "col": 64,
+              "endCol": 66,
+              "raw": "12"
+            }
+          }
+        }
+      ]
+    },
+    "AssistantScreen@app/(tabs)/assistant.tsx:211": {
+      "element": {
+        "file": "app/(tabs)/assistant.tsx",
+        "line": 211
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/assistant.tsx",
+          "properties": {
+            "flex": {
+              "line": 211,
+              "col": 31,
+              "endCol": 32,
+              "raw": "1"
+            },
+            "alignItems": {
+              "line": 211,
+              "col": 46,
+              "endCol": 54,
+              "raw": "'center'"
+            },
+            "justifyContent": {
+              "line": 211,
+              "col": 72,
+              "endCol": 80,
+              "raw": "'center'"
+            },
+            "paddingVertical": {
+              "line": 211,
+              "col": 99,
+              "endCol": 101,
+              "raw": "40"
+            }
+          }
+        }
+      ]
+    },
+    "AssistantScreen@app/(tabs)/assistant.tsx:212": {
+      "element": {
+        "file": "app/(tabs)/assistant.tsx",
+        "line": 212
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/assistant.tsx",
+          "properties": {
+            "width": {
+              "line": 213,
+              "col": 21,
+              "endCol": 23,
+              "raw": "64"
+            },
+            "height": {
+              "line": 214,
+              "col": 22,
+              "endCol": 24,
+              "raw": "64"
+            },
+            "borderRadius": {
+              "line": 215,
+              "col": 28,
+              "endCol": 30,
+              "raw": "20"
+            },
+            "borderCurve": {
+              "line": 216,
+              "col": 27,
+              "endCol": 39,
+              "raw": "'continuous'"
+            },
+            "alignItems": {
+              "line": 218,
+              "col": 26,
+              "endCol": 34,
+              "raw": "'center'"
+            },
+            "justifyContent": {
+              "line": 219,
+              "col": 30,
+              "endCol": 38,
+              "raw": "'center'"
+            },
+            "marginBottom": {
+              "line": 220,
+              "col": 28,
+              "endCol": 30,
+              "raw": "16"
+            }
+          }
+        }
+      ]
+    },
+    "AssistantScreen@app/(tabs)/assistant.tsx:224": {
+      "element": {
+        "file": "app/(tabs)/assistant.tsx",
+        "line": 224
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/assistant.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 224,
+              "col": 65,
+              "endCol": 67,
+              "raw": "16"
+            },
+            "textAlign": {
+              "line": 224,
+              "col": 100,
+              "endCol": 108,
+              "raw": "'center'"
+            },
+            "marginBottom": {
+              "line": 224,
+              "col": 124,
+              "endCol": 125,
+              "raw": "6"
+            }
+          }
+        }
+      ]
+    },
+    "AssistantScreen@app/(tabs)/assistant.tsx:227": {
+      "element": {
+        "file": "app/(tabs)/assistant.tsx",
+        "line": 227
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/assistant.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 227,
+              "col": 64,
+              "endCol": 66,
+              "raw": "13"
+            },
+            "textAlign": {
+              "line": 227,
+              "col": 104,
+              "endCol": 112,
+              "raw": "'center'"
+            },
+            "maxWidth": {
+              "line": 227,
+              "col": 124,
+              "endCol": 127,
+              "raw": "280"
+            },
+            "lineHeight": {
+              "line": 227,
+              "col": 141,
+              "endCol": 143,
+              "raw": "19"
+            },
+            "marginBottom": {
+              "line": 227,
+              "col": 159,
+              "endCol": 161,
+              "raw": "24"
+            }
+          }
+        }
+      ]
+    },
+    "AssistantScreen@app/(tabs)/assistant.tsx:230": {
+      "element": {
+        "file": "app/(tabs)/assistant.tsx",
+        "line": 230
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/assistant.tsx",
+          "properties": {
+            "gap": {
+              "line": 230,
+              "col": 32,
+              "endCol": 33,
+              "raw": "8"
+            },
+            "width": {
+              "line": 230,
+              "col": 42,
+              "endCol": 48,
+              "raw": "'100%'"
+            }
+          }
+        }
+      ]
+    },
+    "AssistantScreen@app/(tabs)/assistant.tsx:232": {
+      "element": {
+        "file": "app/(tabs)/assistant.tsx",
+        "line": 232
+      },
+      "styles": [
+        {
+          "origin": "dynamic",
+          "resolvable": false
+        }
+      ]
+    },
+    "AssistantScreen@app/(tabs)/assistant.tsx:249": {
+      "element": {
+        "file": "app/(tabs)/assistant.tsx",
+        "line": 249
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/assistant.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 249,
+              "col": 70,
+              "endCol": 72,
+              "raw": "13"
+            },
+            "flex": {
+              "line": 249,
+              "col": 100,
+              "endCol": 101,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "AssistantScreen@app/(tabs)/assistant.tsx:261": {
+      "element": {
+        "file": "app/(tabs)/assistant.tsx",
+        "line": 261
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/assistant.tsx",
+          "properties": {
+            "paddingHorizontal": {
+              "line": 261,
+              "col": 42,
+              "endCol": 44,
+              "raw": "20"
+            },
+            "paddingBottom": {
+              "line": 261,
+              "col": 61,
+              "endCol": 62,
+              "raw": "8"
+            },
+            "flexDirection": {
+              "line": 261,
+              "col": 79,
+              "endCol": 84,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 261,
+              "col": 98,
+              "endCol": 106,
+              "raw": "'center'"
+            },
+            "gap": {
+              "line": 261,
+              "col": 113,
+              "endCol": 114,
+              "raw": "8"
+            }
+          }
+        }
+      ]
+    },
+    "AssistantScreen@app/(tabs)/assistant.tsx:263": {
+      "element": {
+        "file": "app/(tabs)/assistant.tsx",
+        "line": 263
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/assistant.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 263,
+              "col": 62,
+              "endCol": 64,
+              "raw": "12"
+            }
+          }
+        }
+      ]
+    },
+    "AssistantScreen@app/(tabs)/assistant.tsx:270": {
+      "element": {
+        "file": "app/(tabs)/assistant.tsx",
+        "line": 270
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/assistant.tsx",
+          "properties": {
+            "paddingHorizontal": {
+              "line": 271,
+              "col": 27,
+              "endCol": 29,
+              "raw": "16"
+            },
+            "paddingVertical": {
+              "line": 272,
+              "col": 25,
+              "endCol": 27,
+              "raw": "12"
+            },
+            "borderTopWidth": {
+              "line": 275,
+              "col": 24,
+              "endCol": 25,
+              "raw": "1"
+            },
+            "flexDirection": {
+              "line": 277,
+              "col": 23,
+              "endCol": 28,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 278,
+              "col": 20,
+              "endCol": 30,
+              "raw": "'flex-end'"
+            },
+            "gap": {
+              "line": 279,
+              "col": 13,
+              "endCol": 15,
+              "raw": "10"
+            }
+          }
+        }
+      ]
+    },
+    "AssistantScreen@app/(tabs)/assistant.tsx:281": {
+      "element": {
+        "file": "app/(tabs)/assistant.tsx",
+        "line": 281
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/assistant.tsx",
+          "properties": {
+            "flex": {
+              "line": 289,
+              "col": 18,
+              "endCol": 19,
+              "raw": "1"
+            },
+            "fontSize": {
+              "line": 291,
+              "col": 22,
+              "endCol": 24,
+              "raw": "15"
+            },
+            "borderRadius": {
+              "line": 294,
+              "col": 26,
+              "endCol": 28,
+              "raw": "20"
+            },
+            "borderCurve": {
+              "line": 295,
+              "col": 25,
+              "endCol": 37,
+              "raw": "'continuous'"
+            },
+            "paddingHorizontal": {
+              "line": 296,
+              "col": 31,
+              "endCol": 33,
+              "raw": "18"
+            },
+            "paddingVertical": {
+              "line": 297,
+              "col": 29,
+              "endCol": 31,
+              "raw": "10"
+            },
+            "maxHeight": {
+              "line": 298,
+              "col": 23,
+              "endCol": 26,
+              "raw": "100"
+            },
+            "borderWidth": {
+              "line": 299,
+              "col": 25,
+              "endCol": 26,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "AssistantScreen@app/(tabs)/assistant.tsx:304": {
+      "element": {
+        "file": "app/(tabs)/assistant.tsx",
+        "line": 304
+      },
+      "styles": [
+        {
+          "origin": "dynamic",
+          "resolvable": false
+        }
+      ]
+    },
+    "CollectScreen@app/(tabs)/collect.tsx:96": {
+      "element": {
+        "file": "app/(tabs)/collect.tsx",
+        "line": 96
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/collect.tsx",
+          "properties": {
+            "flex": {
+              "line": 97,
+              "col": 21,
+              "endCol": 22,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "CollectScreen@app/(tabs)/collect.tsx:103": {
+      "element": {
+        "file": "app/(tabs)/collect.tsx",
+        "line": 103
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/collect.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 103,
+              "col": 55,
+              "endCol": 57,
+              "raw": "22"
+            },
+            "marginBottom": {
+              "line": 103,
+              "col": 93,
+              "endCol": 94,
+              "raw": "6"
+            }
+          }
+        }
+      ]
+    },
+    "CollectScreen@app/(tabs)/collect.tsx:106": {
+      "element": {
+        "file": "app/(tabs)/collect.tsx",
+        "line": 106
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/collect.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 106,
+              "col": 58,
+              "endCol": 60,
+              "raw": "13"
+            },
+            "marginBottom": {
+              "line": 106,
+              "col": 101,
+              "endCol": 103,
+              "raw": "24"
+            }
+          }
+        }
+      ]
+    },
+    "CollectScreen@app/(tabs)/collect.tsx:111": {
+      "element": {
+        "file": "app/(tabs)/collect.tsx",
+        "line": 111
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/collect.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 111,
+              "col": 59,
+              "endCol": 61,
+              "raw": "14"
+            },
+            "marginBottom": {
+              "line": 111,
+              "col": 97,
+              "endCol": 99,
+              "raw": "10"
+            }
+          }
+        }
+      ]
+    },
+    "CollectScreen@app/(tabs)/collect.tsx:114": {
+      "element": {
+        "file": "app/(tabs)/collect.tsx",
+        "line": 114
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/collect.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 114,
+              "col": 36,
+              "endCol": 41,
+              "raw": "'row'"
+            },
+            "gap": {
+              "line": 114,
+              "col": 48,
+              "endCol": 50,
+              "raw": "10"
+            },
+            "marginBottom": {
+              "line": 114,
+              "col": 66,
+              "endCol": 68,
+              "raw": "20"
+            }
+          }
+        }
+      ]
+    },
+    "CollectScreen@app/(tabs)/collect.tsx:116": {
+      "element": {
+        "file": "app/(tabs)/collect.tsx",
+        "line": 116
+      },
+      "styles": [
+        {
+          "origin": "dynamic",
+          "resolvable": false
+        }
+      ]
+    },
+    "CollectScreen@app/(tabs)/collect.tsx:137": {
+      "element": {
+        "file": "app/(tabs)/collect.tsx",
+        "line": 137
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/collect.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 139,
+              "col": 24,
+              "endCol": 26,
+              "raw": "11"
+            }
+          }
+        }
+      ]
+    },
+    "CollectScreen@app/(tabs)/collect.tsx:150": {
+      "element": {
+        "file": "app/(tabs)/collect.tsx",
+        "line": 150
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/collect.tsx",
+          "properties": {
+            "borderRadius": {
+              "line": 152,
+              "col": 24,
+              "endCol": 26,
+              "raw": "16"
+            },
+            "borderCurve": {
+              "line": 153,
+              "col": 23,
+              "endCol": 35,
+              "raw": "'continuous'"
+            },
+            "padding": {
+              "line": 154,
+              "col": 19,
+              "endCol": 21,
+              "raw": "20"
+            },
+            "alignItems": {
+              "line": 155,
+              "col": 22,
+              "endCol": 30,
+              "raw": "'center'"
+            },
+            "gap": {
+              "line": 156,
+              "col": 15,
+              "endCol": 17,
+              "raw": "14"
+            },
+            "marginBottom": {
+              "line": 157,
+              "col": 24,
+              "endCol": 26,
+              "raw": "20"
+            },
+            "borderWidth": {
+              "line": 158,
+              "col": 23,
+              "endCol": 24,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "CollectScreen@app/(tabs)/collect.tsx:161": {
+      "element": {
+        "file": "app/(tabs)/collect.tsx",
+        "line": 161
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/collect.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 161,
+              "col": 59,
+              "endCol": 61,
+              "raw": "28"
+            }
+          }
+        }
+      ]
+    },
+    "CollectScreen@app/(tabs)/collect.tsx:164": {
+      "element": {
+        "file": "app/(tabs)/collect.tsx",
+        "line": 164
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/collect.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 164,
+              "col": 40,
+              "endCol": 45,
+              "raw": "'row'"
+            },
+            "gap": {
+              "line": 164,
+              "col": 52,
+              "endCol": 54,
+              "raw": "16"
+            }
+          }
+        }
+      ]
+    },
+    "CollectScreen@app/(tabs)/collect.tsx:166": {
+      "element": {
+        "file": "app/(tabs)/collect.tsx",
+        "line": 166
+      },
+      "styles": [
+        {
+          "origin": "dynamic",
+          "resolvable": false
+        }
+      ]
+    },
+    "CollectScreen@app/(tabs)/collect.tsx:181": {
+      "element": {
+        "file": "app/(tabs)/collect.tsx",
+        "line": 181
+      },
+      "styles": [
+        {
+          "origin": "dynamic",
+          "resolvable": false
+        }
+      ]
+    },
+    "CollectScreen@app/(tabs)/collect.tsx:197": {
+      "element": {
+        "file": "app/(tabs)/collect.tsx",
+        "line": 197
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/collect.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 197,
+              "col": 62,
+              "endCol": 64,
+              "raw": "12"
+            }
+          }
+        }
+      ]
+    },
+    "CollectScreen@app/(tabs)/collect.tsx:204": {
+      "element": {
+        "file": "app/(tabs)/collect.tsx",
+        "line": 204
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/collect.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 204,
+              "col": 59,
+              "endCol": 61,
+              "raw": "14"
+            },
+            "marginBottom": {
+              "line": 204,
+              "col": 97,
+              "endCol": 98,
+              "raw": "8"
+            }
+          }
+        }
+      ]
+    },
+    "CollectScreen@app/(tabs)/collect.tsx:207": {
+      "element": {
+        "file": "app/(tabs)/collect.tsx",
+        "line": 207
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/collect.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 214,
+              "col": 20,
+              "endCol": 22,
+              "raw": "15"
+            },
+            "borderRadius": {
+              "line": 217,
+              "col": 24,
+              "endCol": 26,
+              "raw": "12"
+            },
+            "borderCurve": {
+              "line": 218,
+              "col": 23,
+              "endCol": 35,
+              "raw": "'continuous'"
+            },
+            "borderWidth": {
+              "line": 219,
+              "col": 23,
+              "endCol": 24,
+              "raw": "1"
+            },
+            "padding": {
+              "line": 221,
+              "col": 19,
+              "endCol": 21,
+              "raw": "14"
+            },
+            "marginBottom": {
+              "line": 222,
+              "col": 24,
+              "endCol": 26,
+              "raw": "18"
+            }
+          }
+        }
+      ]
+    },
+    "CollectScreen@app/(tabs)/collect.tsx:227": {
+      "element": {
+        "file": "app/(tabs)/collect.tsx",
+        "line": 227
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/collect.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 227,
+              "col": 59,
+              "endCol": 61,
+              "raw": "14"
+            },
+            "marginBottom": {
+              "line": 227,
+              "col": 97,
+              "endCol": 99,
+              "raw": "10"
+            }
+          }
+        }
+      ]
+    },
+    "CollectScreen@app/(tabs)/collect.tsx:230": {
+      "element": {
+        "file": "app/(tabs)/collect.tsx",
+        "line": 230
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/collect.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 230,
+              "col": 36,
+              "endCol": 41,
+              "raw": "'row'"
+            },
+            "flexWrap": {
+              "line": 230,
+              "col": 53,
+              "endCol": 59,
+              "raw": "'wrap'"
+            },
+            "gap": {
+              "line": 230,
+              "col": 66,
+              "endCol": 67,
+              "raw": "8"
+            },
+            "marginBottom": {
+              "line": 230,
+              "col": 83,
+              "endCol": 85,
+              "raw": "18"
+            }
+          }
+        }
+      ]
+    },
+    "CollectScreen@app/(tabs)/collect.tsx:232": {
+      "element": {
+        "file": "app/(tabs)/collect.tsx",
+        "line": 232
+      },
+      "styles": [
+        {
+          "origin": "dynamic",
+          "resolvable": false
+        }
+      ]
+    },
+    "CollectScreen@app/(tabs)/collect.tsx:254": {
+      "element": {
+        "file": "app/(tabs)/collect.tsx",
+        "line": 254
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/collect.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 256,
+              "col": 24,
+              "endCol": 26,
+              "raw": "13"
+            }
+          }
+        }
+      ]
+    },
+    "CollectScreen@app/(tabs)/collect.tsx:266": {
+      "element": {
+        "file": "app/(tabs)/collect.tsx",
+        "line": 266
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/collect.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 266,
+              "col": 59,
+              "endCol": 61,
+              "raw": "14"
+            },
+            "marginBottom": {
+              "line": 266,
+              "col": 97,
+              "endCol": 98,
+              "raw": "8"
+            }
+          }
+        }
+      ]
+    },
+    "CollectScreen@app/(tabs)/collect.tsx:269": {
+      "element": {
+        "file": "app/(tabs)/collect.tsx",
+        "line": 269
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/collect.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 276,
+              "col": 20,
+              "endCol": 22,
+              "raw": "15"
+            },
+            "borderRadius": {
+              "line": 279,
+              "col": 24,
+              "endCol": 26,
+              "raw": "12"
+            },
+            "borderCurve": {
+              "line": 280,
+              "col": 23,
+              "endCol": 35,
+              "raw": "'continuous'"
+            },
+            "borderWidth": {
+              "line": 281,
+              "col": 23,
+              "endCol": 24,
+              "raw": "1"
+            },
+            "padding": {
+              "line": 283,
+              "col": 19,
+              "endCol": 21,
+              "raw": "14"
+            },
+            "marginBottom": {
+              "line": 284,
+              "col": 24,
+              "endCol": 26,
+              "raw": "18"
+            }
+          }
+        }
+      ]
+    },
+    "CollectScreen@app/(tabs)/collect.tsx:289": {
+      "element": {
+        "file": "app/(tabs)/collect.tsx",
+        "line": 289
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/collect.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 289,
+              "col": 59,
+              "endCol": 61,
+              "raw": "14"
+            },
+            "marginBottom": {
+              "line": 289,
+              "col": 97,
+              "endCol": 98,
+              "raw": "8"
+            }
+          }
+        }
+      ]
+    },
+    "CollectScreen@app/(tabs)/collect.tsx:292": {
+      "element": {
+        "file": "app/(tabs)/collect.tsx",
+        "line": 292
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/collect.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 299,
+              "col": 20,
+              "endCol": 22,
+              "raw": "15"
+            },
+            "borderRadius": {
+              "line": 302,
+              "col": 24,
+              "endCol": 26,
+              "raw": "12"
+            },
+            "borderCurve": {
+              "line": 303,
+              "col": 23,
+              "endCol": 35,
+              "raw": "'continuous'"
+            },
+            "borderWidth": {
+              "line": 304,
+              "col": 23,
+              "endCol": 24,
+              "raw": "1"
+            },
+            "padding": {
+              "line": 306,
+              "col": 19,
+              "endCol": 21,
+              "raw": "14"
+            },
+            "marginBottom": {
+              "line": 307,
+              "col": 24,
+              "endCol": 26,
+              "raw": "18"
+            }
+          }
+        }
+      ]
+    },
+    "CollectScreen@app/(tabs)/collect.tsx:312": {
+      "element": {
+        "file": "app/(tabs)/collect.tsx",
+        "line": 312
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/collect.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 312,
+              "col": 59,
+              "endCol": 61,
+              "raw": "14"
+            },
+            "marginBottom": {
+              "line": 312,
+              "col": 97,
+              "endCol": 98,
+              "raw": "8"
+            }
+          }
+        }
+      ]
+    },
+    "CollectScreen@app/(tabs)/collect.tsx:315": {
+      "element": {
+        "file": "app/(tabs)/collect.tsx",
+        "line": 315
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/collect.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 325,
+              "col": 20,
+              "endCol": 22,
+              "raw": "15"
+            },
+            "borderRadius": {
+              "line": 328,
+              "col": 24,
+              "endCol": 26,
+              "raw": "12"
+            },
+            "borderCurve": {
+              "line": 329,
+              "col": 23,
+              "endCol": 35,
+              "raw": "'continuous'"
+            },
+            "borderWidth": {
+              "line": 330,
+              "col": 23,
+              "endCol": 24,
+              "raw": "1"
+            },
+            "padding": {
+              "line": 332,
+              "col": 19,
+              "endCol": 21,
+              "raw": "14"
+            },
+            "minHeight": {
+              "line": 333,
+              "col": 21,
+              "endCol": 24,
+              "raw": "120"
+            },
+            "marginBottom": {
+              "line": 334,
+              "col": 24,
+              "endCol": 26,
+              "raw": "24"
+            }
+          }
+        }
+      ]
+    },
+    "CollectScreen@app/(tabs)/collect.tsx:339": {
+      "element": {
+        "file": "app/(tabs)/collect.tsx",
+        "line": 339
+      },
+      "styles": [
+        {
+          "origin": "dynamic",
+          "resolvable": false
+        }
+      ]
+    },
+    "CollectScreen@app/(tabs)/collect.tsx:360": {
+      "element": {
+        "file": "app/(tabs)/collect.tsx",
+        "line": 360
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/collect.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 360,
+              "col": 61,
+              "endCol": 63,
+              "raw": "15"
+            },
+            "color": {
+              "line": 360,
+              "col": 72,
+              "endCol": 78,
+              "raw": "'#fff'"
+            }
+          }
+        }
+      ]
+    },
+    "StatCard@app/(tabs)/index.tsx:14": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 14
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "flex": {
+              "line": 15,
+              "col": 12,
+              "endCol": 13,
+              "raw": "1"
+            },
+            "borderRadius": {
+              "line": 17,
+              "col": 20,
+              "endCol": 22,
+              "raw": "16"
+            },
+            "borderCurve": {
+              "line": 18,
+              "col": 19,
+              "endCol": 31,
+              "raw": "'continuous'"
+            },
+            "padding": {
+              "line": 19,
+              "col": 15,
+              "endCol": 17,
+              "raw": "16"
+            },
+            "gap": {
+              "line": 20,
+              "col": 11,
+              "endCol": 12,
+              "raw": "8"
+            },
+            "boxShadow": {
+              "line": 21,
+              "col": 17,
+              "endCol": 51,
+              "raw": "'0 2px 8px rgba(27, 94, 32, 0.06)'"
+            }
+          }
+        }
+      ]
+    },
+    "StatCard@app/(tabs)/index.tsx:23": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 23
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "width": {
+              "line": 24,
+              "col": 15,
+              "endCol": 17,
+              "raw": "36"
+            },
+            "height": {
+              "line": 25,
+              "col": 16,
+              "endCol": 18,
+              "raw": "36"
+            },
+            "borderRadius": {
+              "line": 26,
+              "col": 22,
+              "endCol": 24,
+              "raw": "10"
+            },
+            "borderCurve": {
+              "line": 27,
+              "col": 21,
+              "endCol": 33,
+              "raw": "'continuous'"
+            },
+            "alignItems": {
+              "line": 29,
+              "col": 20,
+              "endCol": 28,
+              "raw": "'center'"
+            },
+            "justifyContent": {
+              "line": 30,
+              "col": 24,
+              "endCol": 32,
+              "raw": "'center'"
+            }
+          }
+        }
+      ]
+    },
+    "StatCard@app/(tabs)/index.tsx:34": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 34
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 34,
+              "col": 55,
+              "endCol": 57,
+              "raw": "22"
+            }
+          }
+        }
+      ]
+    },
+    "StatCard@app/(tabs)/index.tsx:37": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 37
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 37,
+              "col": 58,
+              "endCol": 60,
+              "raw": "12"
+            }
+          }
+        }
+      ]
+    },
+    "RecentItem@app/(tabs)/index.tsx:47": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 47
+      },
+      "styles": [
+        {
+          "origin": "dynamic",
+          "resolvable": false
+        }
+      ]
+    },
+    "RecentItem@app/(tabs)/index.tsx:58": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 58
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "width": {
+              "line": 59,
+              "col": 15,
+              "endCol": 17,
+              "raw": "42"
+            },
+            "height": {
+              "line": 60,
+              "col": 16,
+              "endCol": 18,
+              "raw": "42"
+            },
+            "borderRadius": {
+              "line": 61,
+              "col": 22,
+              "endCol": 24,
+              "raw": "12"
+            },
+            "borderCurve": {
+              "line": 62,
+              "col": 21,
+              "endCol": 33,
+              "raw": "'continuous'"
+            },
+            "alignItems": {
+              "line": 64,
+              "col": 20,
+              "endCol": 28,
+              "raw": "'center'"
+            },
+            "justifyContent": {
+              "line": 65,
+              "col": 24,
+              "endCol": 32,
+              "raw": "'center'"
+            }
+          }
+        }
+      ]
+    },
+    "RecentItem@app/(tabs)/index.tsx:69": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 69
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "flex": {
+              "line": 69,
+              "col": 27,
+              "endCol": 28,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "RecentItem@app/(tabs)/index.tsx:70": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 70
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 70,
+              "col": 61,
+              "endCol": 63,
+              "raw": "14"
+            }
+          }
+        }
+      ]
+    },
+    "RecentItem@app/(tabs)/index.tsx:73": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 73
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 73,
+              "col": 60,
+              "endCol": 62,
+              "raw": "12"
+            },
+            "marginTop": {
+              "line": 73,
+              "col": 100,
+              "endCol": 101,
+              "raw": "2"
+            }
+          }
+        }
+      ]
+    },
+    "DashboardScreen@app/(tabs)/index.tsx:111": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 111
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "flex": {
+              "line": 111,
+              "col": 27,
+              "endCol": 28,
+              "raw": "1"
+            },
+            "alignItems": {
+              "line": 111,
+              "col": 42,
+              "endCol": 50,
+              "raw": "'center'"
+            },
+            "justifyContent": {
+              "line": 111,
+              "col": 68,
+              "endCol": 76,
+              "raw": "'center'"
+            }
+          }
+        }
+      ]
+    },
+    "DashboardScreen@app/(tabs)/index.tsx:118": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 118
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "flex": {
+              "line": 119,
+              "col": 21,
+              "endCol": 22,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "DashboardScreen@app/(tabs)/index.tsx:124": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 124
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 124,
+              "col": 36,
+              "endCol": 41,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 124,
+              "col": 55,
+              "endCol": 63,
+              "raw": "'center'"
+            },
+            "justifyContent": {
+              "line": 124,
+              "col": 81,
+              "endCol": 96,
+              "raw": "'space-between'"
+            },
+            "marginBottom": {
+              "line": 124,
+              "col": 112,
+              "endCol": 114,
+              "raw": "24"
+            }
+          }
+        }
+      ]
+    },
+    "DashboardScreen@app/(tabs)/index.tsx:126": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 126
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 126,
+              "col": 59,
+              "endCol": 61,
+              "raw": "22"
+            }
+          }
+        }
+      ]
+    },
+    "DashboardScreen@app/(tabs)/index.tsx:129": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 129
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 129,
+              "col": 62,
+              "endCol": 64,
+              "raw": "13"
+            },
+            "marginTop": {
+              "line": 129,
+              "col": 102,
+              "endCol": 103,
+              "raw": "2"
+            }
+          }
+        }
+      ]
+    },
+    "DashboardScreen@app/(tabs)/index.tsx:133": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 133
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "width": {
+              "line": 134,
+              "col": 17,
+              "endCol": 19,
+              "raw": "40"
+            },
+            "height": {
+              "line": 135,
+              "col": 18,
+              "endCol": 20,
+              "raw": "40"
+            },
+            "borderRadius": {
+              "line": 136,
+              "col": 24,
+              "endCol": 26,
+              "raw": "20"
+            },
+            "alignItems": {
+              "line": 138,
+              "col": 22,
+              "endCol": 30,
+              "raw": "'center'"
+            },
+            "justifyContent": {
+              "line": 139,
+              "col": 26,
+              "endCol": 34,
+              "raw": "'center'"
+            }
+          }
+        }
+      ]
+    },
+    "DashboardScreen@app/(tabs)/index.tsx:146": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 146
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "borderRadius": {
+              "line": 148,
+              "col": 22,
+              "endCol": 24,
+              "raw": "20"
+            },
+            "borderCurve": {
+              "line": 149,
+              "col": 21,
+              "endCol": 33,
+              "raw": "'continuous'"
+            },
+            "padding": {
+              "line": 150,
+              "col": 17,
+              "endCol": 19,
+              "raw": "22"
+            },
+            "marginBottom": {
+              "line": 151,
+              "col": 22,
+              "endCol": 24,
+              "raw": "20"
+            },
+            "boxShadow": {
+              "line": 152,
+              "col": 19,
+              "endCol": 54,
+              "raw": "'0 6px 20px rgba(27, 94, 32, 0.25)'"
+            }
+          }
+        }
+      ]
+    },
+    "DashboardScreen@app/(tabs)/index.tsx:154": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 154
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 154,
+              "col": 57,
+              "endCol": 59,
+              "raw": "18"
+            },
+            "color": {
+              "line": 154,
+              "col": 68,
+              "endCol": 74,
+              "raw": "'#fff'"
+            }
+          }
+        }
+      ]
+    },
+    "DashboardScreen@app/(tabs)/index.tsx:157": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 157
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 157,
+              "col": 60,
+              "endCol": 62,
+              "raw": "13"
+            },
+            "color": {
+              "line": 157,
+              "col": 71,
+              "endCol": 94,
+              "raw": "'rgba(255,255,255,0.8)'"
+            },
+            "marginTop": {
+              "line": 157,
+              "col": 107,
+              "endCol": 108,
+              "raw": "6"
+            },
+            "lineHeight": {
+              "line": 157,
+              "col": 122,
+              "endCol": 124,
+              "raw": "19"
+            }
+          }
+        }
+      ]
+    },
+    "DashboardScreen@app/(tabs)/index.tsx:160": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 160
+      },
+      "styles": [
+        {
+          "origin": "dynamic",
+          "resolvable": false
+        }
+      ]
+    },
+    "DashboardScreen@app/(tabs)/index.tsx:177": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 177
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 177,
+              "col": 63,
+              "endCol": 65,
+              "raw": "14"
+            },
+            "color": {
+              "line": 177,
+              "col": 74,
+              "endCol": 80,
+              "raw": "'#fff'"
+            }
+          }
+        }
+      ]
+    },
+    "DashboardScreen@app/(tabs)/index.tsx:184": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 184
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 184,
+              "col": 36,
+              "endCol": 41,
+              "raw": "'row'"
+            },
+            "gap": {
+              "line": 184,
+              "col": 48,
+              "endCol": 50,
+              "raw": "12"
+            },
+            "marginBottom": {
+              "line": 184,
+              "col": 66,
+              "endCol": 68,
+              "raw": "24"
+            }
+          }
+        }
+      ]
+    },
+    "DashboardScreen@app/(tabs)/index.tsx:191": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 191
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 191,
+              "col": 55,
+              "endCol": 57,
+              "raw": "16"
+            },
+            "marginBottom": {
+              "line": 191,
+              "col": 93,
+              "endCol": 95,
+              "raw": "14"
+            }
+          }
+        }
+      ]
+    },
+    "DashboardScreen@app/(tabs)/index.tsx:194": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 194
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "flexGrow": {
+              "line": 197,
+              "col": 27,
+              "endCol": 28,
+              "raw": "0"
+            },
+            "marginBottom": {
+              "line": 197,
+              "col": 44,
+              "endCol": 46,
+              "raw": "24"
+            }
+          }
+        }
+      ]
+    },
+    "DashboardScreen@app/(tabs)/index.tsx:201": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 201
+      },
+      "styles": [
+        {
+          "origin": "dynamic",
+          "resolvable": false
+        }
+      ]
+    },
+    "DashboardScreen@app/(tabs)/index.tsx:219": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 219
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 219,
+              "col": 65,
+              "endCol": 67,
+              "raw": "13"
+            }
+          }
+        }
+      ]
+    },
+    "DashboardScreen@app/(tabs)/index.tsx:227": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 227
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 227,
+              "col": 55,
+              "endCol": 57,
+              "raw": "16"
+            },
+            "marginBottom": {
+              "line": 227,
+              "col": 93,
+              "endCol": 95,
+              "raw": "14"
+            }
+          }
+        }
+      ]
+    },
+    "DashboardScreen@app/(tabs)/index.tsx:230": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 230
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "gap": {
+              "line": 230,
+              "col": 26,
+              "endCol": 28,
+              "raw": "10"
+            }
+          }
+        }
+      ]
+    },
+    "DashboardScreen@app/(tabs)/index.tsx:241": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 241
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "padding": {
+              "line": 242,
+              "col": 19,
+              "endCol": 21,
+              "raw": "32"
+            },
+            "alignItems": {
+              "line": 243,
+              "col": 22,
+              "endCol": 30,
+              "raw": "'center'"
+            },
+            "borderRadius": {
+              "line": 245,
+              "col": 24,
+              "endCol": 26,
+              "raw": "16"
+            },
+            "borderCurve": {
+              "line": 246,
+              "col": 23,
+              "endCol": 35,
+              "raw": "'continuous'"
+            }
+          }
+        }
+      ]
+    },
+    "DashboardScreen@app/(tabs)/index.tsx:249": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 249
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 249,
+              "col": 61,
+              "endCol": 63,
+              "raw": "14"
+            },
+            "marginTop": {
+              "line": 249,
+              "col": 101,
+              "endCol": 103,
+              "raw": "12"
+            },
+            "textAlign": {
+              "line": 249,
+              "col": 116,
+              "endCol": 124,
+              "raw": "'center'"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeCard@app/(tabs)/library.tsx:24": {
+      "element": {
+        "file": "app/(tabs)/library.tsx",
+        "line": 24
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/library.tsx",
+          "properties": {
+            "borderRadius": {
+              "line": 26,
+              "col": 20,
+              "endCol": 22,
+              "raw": "16"
+            },
+            "borderCurve": {
+              "line": 27,
+              "col": 19,
+              "endCol": 31,
+              "raw": "'continuous'"
+            },
+            "overflow": {
+              "line": 28,
+              "col": 16,
+              "endCol": 24,
+              "raw": "'hidden'"
+            },
+            "boxShadow": {
+              "line": 29,
+              "col": 17,
+              "endCol": 45,
+              "raw": "'0 2px 8px rgba(0,0,0,0.04)'"
+            },
+            "marginBottom": {
+              "line": 30,
+              "col": 20,
+              "endCol": 22,
+              "raw": "12"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeCard@app/(tabs)/library.tsx:32": {
+      "element": {
+        "file": "app/(tabs)/library.tsx",
+        "line": 32
+      },
+      "styles": [
+        {
+          "origin": "dynamic",
+          "resolvable": false
+        }
+      ]
+    },
+    "KnowledgeCard@app/(tabs)/library.tsx:33": {
+      "element": {
+        "file": "app/(tabs)/library.tsx",
+        "line": 33
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/library.tsx",
+          "properties": {
+            "padding": {
+              "line": 33,
+              "col": 32,
+              "endCol": 34,
+              "raw": "16"
+            },
+            "gap": {
+              "line": 33,
+              "col": 41,
+              "endCol": 43,
+              "raw": "10"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeCard@app/(tabs)/library.tsx:34": {
+      "element": {
+        "file": "app/(tabs)/library.tsx",
+        "line": 34
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/library.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 34,
+              "col": 40,
+              "endCol": 45,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 34,
+              "col": 59,
+              "endCol": 67,
+              "raw": "'center'"
+            },
+            "justifyContent": {
+              "line": 34,
+              "col": 85,
+              "endCol": 100,
+              "raw": "'space-between'"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeCard@app/(tabs)/library.tsx:35": {
+      "element": {
+        "file": "app/(tabs)/library.tsx",
+        "line": 35
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/library.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 36,
+              "col": 29,
+              "endCol": 34,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 37,
+              "col": 26,
+              "endCol": 34,
+              "raw": "'center'"
+            },
+            "gap": {
+              "line": 38,
+              "col": 19,
+              "endCol": 20,
+              "raw": "6"
+            },
+            "paddingHorizontal": {
+              "line": 40,
+              "col": 33,
+              "endCol": 35,
+              "raw": "10"
+            },
+            "paddingVertical": {
+              "line": 41,
+              "col": 31,
+              "endCol": 32,
+              "raw": "4"
+            },
+            "borderRadius": {
+              "line": 42,
+              "col": 28,
+              "endCol": 29,
+              "raw": "8"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeCard@app/(tabs)/library.tsx:45": {
+      "element": {
+        "file": "app/(tabs)/library.tsx",
+        "line": 45
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/library.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 45,
+              "col": 65,
+              "endCol": 67,
+              "raw": "11"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeCard@app/(tabs)/library.tsx:49": {
+      "element": {
+        "file": "app/(tabs)/library.tsx",
+        "line": 49
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/library.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 49,
+              "col": 42,
+              "endCol": 47,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 49,
+              "col": 61,
+              "endCol": 69,
+              "raw": "'center'"
+            },
+            "gap": {
+              "line": 49,
+              "col": 76,
+              "endCol": 77,
+              "raw": "6"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeCard@app/(tabs)/library.tsx:60": {
+      "element": {
+        "file": "app/(tabs)/library.tsx",
+        "line": 60
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/library.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 60,
+              "col": 63,
+              "endCol": 65,
+              "raw": "15"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeCard@app/(tabs)/library.tsx:63": {
+      "element": {
+        "file": "app/(tabs)/library.tsx",
+        "line": 63
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/library.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 63,
+              "col": 62,
+              "endCol": 64,
+              "raw": "13"
+            },
+            "lineHeight": {
+              "line": 63,
+              "col": 107,
+              "endCol": 109,
+              "raw": "19"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeCard@app/(tabs)/library.tsx:66": {
+      "element": {
+        "file": "app/(tabs)/library.tsx",
+        "line": 66
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/library.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 66,
+              "col": 40,
+              "endCol": 45,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 66,
+              "col": 59,
+              "endCol": 67,
+              "raw": "'center'"
+            },
+            "gap": {
+              "line": 66,
+              "col": 74,
+              "endCol": 75,
+              "raw": "8"
+            },
+            "marginTop": {
+              "line": 66,
+              "col": 88,
+              "endCol": 89,
+              "raw": "2"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeCard@app/(tabs)/library.tsx:68": {
+      "element": {
+        "file": "app/(tabs)/library.tsx",
+        "line": 68
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/library.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 68,
+              "col": 64,
+              "endCol": 66,
+              "raw": "11"
+            }
+          }
+        }
+      ]
+    },
+    "LibraryScreen@app/(tabs)/library.tsx:124": {
+      "element": {
+        "file": "app/(tabs)/library.tsx",
+        "line": 124
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/library.tsx",
+          "properties": {
+            "flex": {
+              "line": 124,
+              "col": 25,
+              "endCol": 26,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "LibraryScreen@app/(tabs)/library.tsx:126": {
+      "element": {
+        "file": "app/(tabs)/library.tsx",
+        "line": 126
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/library.tsx",
+          "properties": {
+            "paddingHorizontal": {
+              "line": 126,
+              "col": 69,
+              "endCol": 71,
+              "raw": "20"
+            },
+            "paddingBottom": {
+              "line": 126,
+              "col": 88,
+              "endCol": 90,
+              "raw": "12"
+            }
+          }
+        }
+      ]
+    },
+    "LibraryScreen@app/(tabs)/library.tsx:127": {
+      "element": {
+        "file": "app/(tabs)/library.tsx",
+        "line": 127
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/library.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 127,
+              "col": 57,
+              "endCol": 59,
+              "raw": "22"
+            },
+            "marginBottom": {
+              "line": 127,
+              "col": 95,
+              "endCol": 97,
+              "raw": "14"
+            }
+          }
+        }
+      ]
+    },
+    "LibraryScreen@app/(tabs)/library.tsx:132": {
+      "element": {
+        "file": "app/(tabs)/library.tsx",
+        "line": 132
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/library.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 133,
+              "col": 25,
+              "endCol": 30,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 134,
+              "col": 22,
+              "endCol": 30,
+              "raw": "'center'"
+            },
+            "borderRadius": {
+              "line": 136,
+              "col": 24,
+              "endCol": 26,
+              "raw": "12"
+            },
+            "borderCurve": {
+              "line": 137,
+              "col": 23,
+              "endCol": 35,
+              "raw": "'continuous'"
+            },
+            "borderWidth": {
+              "line": 138,
+              "col": 23,
+              "endCol": 24,
+              "raw": "1"
+            },
+            "paddingHorizontal": {
+              "line": 140,
+              "col": 29,
+              "endCol": 31,
+              "raw": "14"
+            },
+            "gap": {
+              "line": 141,
+              "col": 15,
+              "endCol": 17,
+              "raw": "10"
+            },
+            "marginBottom": {
+              "line": 142,
+              "col": 24,
+              "endCol": 26,
+              "raw": "14"
+            }
+          }
+        }
+      ]
+    },
+    "LibraryScreen@app/(tabs)/library.tsx:145": {
+      "element": {
+        "file": "app/(tabs)/library.tsx",
+        "line": 145
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/library.tsx",
+          "properties": {
+            "flex": {
+              "line": 151,
+              "col": 20,
+              "endCol": 21,
+              "raw": "1"
+            },
+            "fontSize": {
+              "line": 153,
+              "col": 24,
+              "endCol": 26,
+              "raw": "14"
+            },
+            "paddingVertical": {
+              "line": 155,
+              "col": 31,
+              "endCol": 33,
+              "raw": "12"
+            }
+          }
+        }
+      ]
+    },
+    "LibraryScreen@app/(tabs)/library.tsx:159": {
+      "element": {
+        "file": "app/(tabs)/library.tsx",
+        "line": 159
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/library.tsx",
+          "properties": {
+            "padding": {
+              "line": 159,
+              "col": 76,
+              "endCol": 77,
+              "raw": "4"
+            }
+          }
+        }
+      ]
+    },
+    "LibraryScreen@app/(tabs)/library.tsx:166": {
+      "element": {
+        "file": "app/(tabs)/library.tsx",
+        "line": 166
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/library.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 166,
+              "col": 38,
+              "endCol": 43,
+              "raw": "'row'"
+            },
+            "gap": {
+              "line": 166,
+              "col": 50,
+              "endCol": 51,
+              "raw": "8"
+            },
+            "flexWrap": {
+              "line": 166,
+              "col": 63,
+              "endCol": 69,
+              "raw": "'wrap'"
+            }
+          }
+        }
+      ]
+    },
+    "LibraryScreen@app/(tabs)/library.tsx:167": {
+      "element": {
+        "file": "app/(tabs)/library.tsx",
+        "line": 167
+      },
+      "styles": [
+        {
+          "origin": "dynamic",
+          "resolvable": false
+        }
+      ]
+    },
+    "LibraryScreen@app/(tabs)/library.tsx:180": {
+      "element": {
+        "file": "app/(tabs)/library.tsx",
+        "line": 180
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/library.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 182,
+              "col": 24,
+              "endCol": 26,
+              "raw": "12"
+            }
+          }
+        }
+      ]
+    },
+    "LibraryScreen@app/(tabs)/library.tsx:189": {
+      "element": {
+        "file": "app/(tabs)/library.tsx",
+        "line": 189
+      },
+      "styles": [
+        {
+          "origin": "dynamic",
+          "resolvable": false
+        }
+      ]
+    },
+    "LibraryScreen@app/(tabs)/library.tsx:211": {
+      "element": {
+        "file": "app/(tabs)/library.tsx",
+        "line": 211
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/library.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 213,
+              "col": 26,
+              "endCol": 28,
+              "raw": "12"
+            }
+          }
+        }
+      ]
+    },
+    "LibraryScreen@app/(tabs)/library.tsx:231": {
+      "element": {
+        "file": "app/(tabs)/library.tsx",
+        "line": 231
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/library.tsx",
+          "properties": {
+            "padding": {
+              "line": 232,
+              "col": 21,
+              "endCol": 23,
+              "raw": "40"
+            },
+            "alignItems": {
+              "line": 233,
+              "col": 24,
+              "endCol": 32,
+              "raw": "'center'"
+            },
+            "borderRadius": {
+              "line": 235,
+              "col": 26,
+              "endCol": 28,
+              "raw": "16"
+            },
+            "borderCurve": {
+              "line": 236,
+              "col": 25,
+              "endCol": 37,
+              "raw": "'continuous'"
+            },
+            "marginTop": {
+              "line": 237,
+              "col": 23,
+              "endCol": 25,
+              "raw": "20"
+            }
+          }
+        }
+      ]
+    },
+    "LibraryScreen@app/(tabs)/library.tsx:240": {
+      "element": {
+        "file": "app/(tabs)/library.tsx",
+        "line": 240
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/library.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 240,
+              "col": 63,
+              "endCol": 65,
+              "raw": "15"
+            },
+            "marginTop": {
+              "line": 240,
+              "col": 103,
+              "endCol": 105,
+              "raw": "12"
+            },
+            "textAlign": {
+              "line": 240,
+              "col": 118,
+              "endCol": 126,
+              "raw": "'center'"
+            }
+          }
+        }
+      ]
+    },
+    "LibraryScreen@app/(tabs)/library.tsx:243": {
+      "element": {
+        "file": "app/(tabs)/library.tsx",
+        "line": 243
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/library.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 243,
+              "col": 64,
+              "endCol": 66,
+              "raw": "13"
+            },
+            "marginTop": {
+              "line": 243,
+              "col": 104,
+              "endCol": 105,
+              "raw": "4"
+            },
+            "textAlign": {
+              "line": 243,
+              "col": 118,
+              "endCol": 126,
+              "raw": "'center'"
+            }
+          }
+        }
+      ]
+    },
+    "RootLayout@app/_layout.tsx:26": {
+      "element": {
+        "file": "app/_layout.tsx",
+        "line": 26
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/_layout.tsx",
+          "properties": {
+            "flex": {
+              "line": 26,
+              "col": 43,
+              "endCol": 44,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "SettingsRow@app/(tabs)/profile.tsx:23": {
+      "element": {
+        "file": "app/(tabs)/profile.tsx",
+        "line": 23
+      },
+      "styles": [
+        {
+          "origin": "dynamic",
+          "resolvable": false
+        }
+      ]
+    },
+    "SettingsRow@app/(tabs)/profile.tsx:35": {
+      "element": {
+        "file": "app/(tabs)/profile.tsx",
+        "line": 35
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/profile.tsx",
+          "properties": {
+            "width": {
+              "line": 36,
+              "col": 15,
+              "endCol": 17,
+              "raw": "34"
+            },
+            "height": {
+              "line": 37,
+              "col": 16,
+              "endCol": 18,
+              "raw": "34"
+            },
+            "borderRadius": {
+              "line": 38,
+              "col": 22,
+              "endCol": 24,
+              "raw": "10"
+            },
+            "borderCurve": {
+              "line": 39,
+              "col": 21,
+              "endCol": 33,
+              "raw": "'continuous'"
+            },
+            "alignItems": {
+              "line": 41,
+              "col": 20,
+              "endCol": 28,
+              "raw": "'center'"
+            },
+            "justifyContent": {
+              "line": 42,
+              "col": 24,
+              "endCol": 32,
+              "raw": "'center'"
+            }
+          }
+        }
+      ]
+    },
+    "SettingsRow@app/(tabs)/profile.tsx:46": {
+      "element": {
+        "file": "app/(tabs)/profile.tsx",
+        "line": 46
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/profile.tsx",
+          "properties": {
+            "flex": {
+              "line": 46,
+              "col": 27,
+              "endCol": 28,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "SettingsRow@app/(tabs)/profile.tsx:47": {
+      "element": {
+        "file": "app/(tabs)/profile.tsx",
+        "line": 47
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/profile.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 47,
+              "col": 59,
+              "endCol": 61,
+              "raw": "14"
+            }
+          }
+        }
+      ]
+    },
+    "SettingsRow@app/(tabs)/profile.tsx:51": {
+      "element": {
+        "file": "app/(tabs)/profile.tsx",
+        "line": 51
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/profile.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 51,
+              "col": 62,
+              "endCol": 64,
+              "raw": "12"
+            },
+            "marginTop": {
+              "line": 51,
+              "col": 102,
+              "endCol": 103,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "ProfileScreen@app/(tabs)/profile.tsx:107": {
+      "element": {
+        "file": "app/(tabs)/profile.tsx",
+        "line": 107
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/profile.tsx",
+          "properties": {
+            "flex": {
+              "line": 108,
+              "col": 21,
+              "endCol": 22,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "ProfileScreen@app/(tabs)/profile.tsx:113": {
+      "element": {
+        "file": "app/(tabs)/profile.tsx",
+        "line": 113
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/profile.tsx",
+          "properties": {
+            "paddingHorizontal": {
+              "line": 113,
+              "col": 40,
+              "endCol": 42,
+              "raw": "20"
+            },
+            "marginBottom": {
+              "line": 113,
+              "col": 58,
+              "endCol": 60,
+              "raw": "24"
+            }
+          }
+        }
+      ]
+    },
+    "ProfileScreen@app/(tabs)/profile.tsx:114": {
+      "element": {
+        "file": "app/(tabs)/profile.tsx",
+        "line": 114
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/profile.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 114,
+              "col": 57,
+              "endCol": 59,
+              "raw": "22"
+            }
+          }
+        }
+      ]
+    },
+    "ProfileScreen@app/(tabs)/profile.tsx:120": {
+      "element": {
+        "file": "app/(tabs)/profile.tsx",
+        "line": 120
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/profile.tsx",
+          "properties": {
+            "marginHorizontal": {
+              "line": 121,
+              "col": 26,
+              "endCol": 28,
+              "raw": "20"
+            },
+            "borderRadius": {
+              "line": 123,
+              "col": 22,
+              "endCol": 24,
+              "raw": "20"
+            },
+            "borderCurve": {
+              "line": 124,
+              "col": 21,
+              "endCol": 33,
+              "raw": "'continuous'"
+            },
+            "padding": {
+              "line": 125,
+              "col": 17,
+              "endCol": 19,
+              "raw": "22"
+            },
+            "marginBottom": {
+              "line": 126,
+              "col": 22,
+              "endCol": 24,
+              "raw": "20"
+            },
+            "boxShadow": {
+              "line": 127,
+              "col": 19,
+              "endCol": 48,
+              "raw": "'0 2px 12px rgba(0,0,0,0.04)'"
+            }
+          }
+        }
+      ]
+    },
+    "ProfileScreen@app/(tabs)/profile.tsx:129": {
+      "element": {
+        "file": "app/(tabs)/profile.tsx",
+        "line": 129
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/profile.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 129,
+              "col": 38,
+              "endCol": 43,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 129,
+              "col": 57,
+              "endCol": 65,
+              "raw": "'center'"
+            },
+            "gap": {
+              "line": 129,
+              "col": 72,
+              "endCol": 74,
+              "raw": "16"
+            },
+            "marginBottom": {
+              "line": 129,
+              "col": 90,
+              "endCol": 92,
+              "raw": "18"
+            }
+          }
+        }
+      ]
+    },
+    "ProfileScreen@app/(tabs)/profile.tsx:130": {
+      "element": {
+        "file": "app/(tabs)/profile.tsx",
+        "line": 130
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/profile.tsx",
+          "properties": {
+            "width": {
+              "line": 131,
+              "col": 19,
+              "endCol": 21,
+              "raw": "60"
+            },
+            "height": {
+              "line": 132,
+              "col": 20,
+              "endCol": 22,
+              "raw": "60"
+            },
+            "borderRadius": {
+              "line": 133,
+              "col": 26,
+              "endCol": 28,
+              "raw": "30"
+            },
+            "alignItems": {
+              "line": 135,
+              "col": 24,
+              "endCol": 32,
+              "raw": "'center'"
+            },
+            "justifyContent": {
+              "line": 136,
+              "col": 28,
+              "endCol": 36,
+              "raw": "'center'"
+            }
+          }
+        }
+      ]
+    },
+    "ProfileScreen@app/(tabs)/profile.tsx:138": {
+      "element": {
+        "file": "app/(tabs)/profile.tsx",
+        "line": 138
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/profile.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 138,
+              "col": 61,
+              "endCol": 63,
+              "raw": "22"
+            },
+            "color": {
+              "line": 138,
+              "col": 72,
+              "endCol": 78,
+              "raw": "'#fff'"
+            }
+          }
+        }
+      ]
+    },
+    "ProfileScreen@app/(tabs)/profile.tsx:142": {
+      "element": {
+        "file": "app/(tabs)/profile.tsx",
+        "line": 142
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/profile.tsx",
+          "properties": {
+            "flex": {
+              "line": 142,
+              "col": 31,
+              "endCol": 32,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "ProfileScreen@app/(tabs)/profile.tsx:144": {
+      "element": {
+        "file": "app/(tabs)/profile.tsx",
+        "line": 144
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/profile.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 149,
+              "col": 28,
+              "endCol": 30,
+              "raw": "18"
+            },
+            "borderBottomWidth": {
+              "line": 151,
+              "col": 37,
+              "endCol": 38,
+              "raw": "1"
+            },
+            "paddingVertical": {
+              "line": 153,
+              "col": 35,
+              "endCol": 36,
+              "raw": "2"
+            }
+          }
+        }
+      ]
+    },
+    "ProfileScreen@app/(tabs)/profile.tsx:157": {
+      "element": {
+        "file": "app/(tabs)/profile.tsx",
+        "line": 157
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/profile.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 157,
+              "col": 63,
+              "endCol": 65,
+              "raw": "18"
+            }
+          }
+        }
+      ]
+    },
+    "ProfileScreen@app/(tabs)/profile.tsx:161": {
+      "element": {
+        "file": "app/(tabs)/profile.tsx",
+        "line": 161
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/profile.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 161,
+              "col": 64,
+              "endCol": 66,
+              "raw": "13"
+            },
+            "marginTop": {
+              "line": 161,
+              "col": 104,
+              "endCol": 105,
+              "raw": "2"
+            }
+          }
+        }
+      ]
+    },
+    "ProfileScreen@app/(tabs)/profile.tsx:165": {
+      "element": {
+        "file": "app/(tabs)/profile.tsx",
+        "line": 165
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/profile.tsx",
+          "properties": {
+            "padding": {
+              "line": 167,
+              "col": 30,
+              "endCol": 31,
+              "raw": "8"
+            }
+          }
+        }
+      ]
+    },
+    "ProfileScreen@app/(tabs)/profile.tsx:178": {
+      "element": {
+        "file": "app/(tabs)/profile.tsx",
+        "line": 178
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/profile.tsx",
+          "properties": {
+            "gap": {
+              "line": 178,
+              "col": 30,
+              "endCol": 32,
+              "raw": "12"
+            },
+            "marginBottom": {
+              "line": 178,
+              "col": 48,
+              "endCol": 50,
+              "raw": "12"
+            }
+          }
+        }
+      ]
+    },
+    "ProfileScreen@app/(tabs)/profile.tsx:179": {
+      "element": {
+        "file": "app/(tabs)/profile.tsx",
+        "line": 179
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/profile.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 186,
+              "col": 26,
+              "endCol": 28,
+              "raw": "14"
+            },
+            "borderRadius": {
+              "line": 189,
+              "col": 30,
+              "endCol": 32,
+              "raw": "10"
+            },
+            "padding": {
+              "line": 190,
+              "col": 25,
+              "endCol": 27,
+              "raw": "12"
+            }
+          }
+        }
+      ]
+    },
+    "ProfileScreen@app/(tabs)/profile.tsx:193": {
+      "element": {
+        "file": "app/(tabs)/profile.tsx",
+        "line": 193
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/profile.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 200,
+              "col": 26,
+              "endCol": 28,
+              "raw": "14"
+            },
+            "borderRadius": {
+              "line": 203,
+              "col": 30,
+              "endCol": 32,
+              "raw": "10"
+            },
+            "padding": {
+              "line": 204,
+              "col": 25,
+              "endCol": 27,
+              "raw": "12"
+            }
+          }
+        }
+      ]
+    },
+    "ProfileScreen@app/(tabs)/profile.tsx:211": {
+      "element": {
+        "file": "app/(tabs)/profile.tsx",
+        "line": 211
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/profile.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 211,
+              "col": 38,
+              "endCol": 43,
+              "raw": "'row'"
+            },
+            "gap": {
+              "line": 211,
+              "col": 50,
+              "endCol": 52,
+              "raw": "12"
+            }
+          }
+        }
+      ]
+    },
+    "ProfileScreen@app/(tabs)/profile.tsx:212": {
+      "element": {
+        "file": "app/(tabs)/profile.tsx",
+        "line": 212
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/profile.tsx",
+          "properties": {
+            "flex": {
+              "line": 213,
+              "col": 18,
+              "endCol": 19,
+              "raw": "1"
+            },
+            "borderRadius": {
+              "line": 215,
+              "col": 26,
+              "endCol": 28,
+              "raw": "12"
+            },
+            "borderCurve": {
+              "line": 216,
+              "col": 25,
+              "endCol": 37,
+              "raw": "'continuous'"
+            },
+            "padding": {
+              "line": 217,
+              "col": 21,
+              "endCol": 23,
+              "raw": "14"
+            },
+            "alignItems": {
+              "line": 218,
+              "col": 24,
+              "endCol": 32,
+              "raw": "'center'"
+            }
+          }
+        }
+      ]
+    },
+    "ProfileScreen@app/(tabs)/profile.tsx:220": {
+      "element": {
+        "file": "app/(tabs)/profile.tsx",
+        "line": 220
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/profile.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 220,
+              "col": 61,
+              "endCol": 63,
+              "raw": "20"
+            }
+          }
+        }
+      ]
+    },
+    "ProfileScreen@app/(tabs)/profile.tsx:223": {
+      "element": {
+        "file": "app/(tabs)/profile.tsx",
+        "line": 223
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/profile.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 223,
+              "col": 64,
+              "endCol": 66,
+              "raw": "11"
+            },
+            "marginTop": {
+              "line": 223,
+              "col": 104,
+              "endCol": 105,
+              "raw": "2"
+            }
+          }
+        }
+      ]
+    },
+    "ProfileScreen@app/(tabs)/profile.tsx:227": {
+      "element": {
+        "file": "app/(tabs)/profile.tsx",
+        "line": 227
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/profile.tsx",
+          "properties": {
+            "flex": {
+              "line": 228,
+              "col": 18,
+              "endCol": 19,
+              "raw": "1"
+            },
+            "borderRadius": {
+              "line": 230,
+              "col": 26,
+              "endCol": 28,
+              "raw": "12"
+            },
+            "borderCurve": {
+              "line": 231,
+              "col": 25,
+              "endCol": 37,
+              "raw": "'continuous'"
+            },
+            "padding": {
+              "line": 232,
+              "col": 21,
+              "endCol": 23,
+              "raw": "14"
+            },
+            "alignItems": {
+              "line": 233,
+              "col": 24,
+              "endCol": 32,
+              "raw": "'center'"
+            }
+          }
+        }
+      ]
+    },
+    "ProfileScreen@app/(tabs)/profile.tsx:235": {
+      "element": {
+        "file": "app/(tabs)/profile.tsx",
+        "line": 235
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/profile.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 235,
+              "col": 61,
+              "endCol": 63,
+              "raw": "20"
+            }
+          }
+        }
+      ]
+    },
+    "ProfileScreen@app/(tabs)/profile.tsx:238": {
+      "element": {
+        "file": "app/(tabs)/profile.tsx",
+        "line": 238
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/profile.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 238,
+              "col": 64,
+              "endCol": 66,
+              "raw": "11"
+            },
+            "marginTop": {
+              "line": 238,
+              "col": 104,
+              "endCol": 105,
+              "raw": "2"
+            }
+          }
+        }
+      ]
+    },
+    "ProfileScreen@app/(tabs)/profile.tsx:246": {
+      "element": {
+        "file": "app/(tabs)/profile.tsx",
+        "line": 246
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/profile.tsx",
+          "properties": {
+            "marginHorizontal": {
+              "line": 247,
+              "col": 26,
+              "endCol": 28,
+              "raw": "20"
+            },
+            "borderRadius": {
+              "line": 249,
+              "col": 22,
+              "endCol": 24,
+              "raw": "16"
+            },
+            "borderCurve": {
+              "line": 250,
+              "col": 21,
+              "endCol": 33,
+              "raw": "'continuous'"
+            },
+            "overflow": {
+              "line": 251,
+              "col": 18,
+              "endCol": 26,
+              "raw": "'hidden'"
+            },
+            "marginBottom": {
+              "line": 252,
+              "col": 22,
+              "endCol": 24,
+              "raw": "20"
+            },
+            "boxShadow": {
+              "line": 253,
+              "col": 19,
+              "endCol": 47,
+              "raw": "'0 1px 6px rgba(0,0,0,0.03)'"
+            }
+          }
+        }
+      ]
+    },
+    "ProfileScreen@app/(tabs)/profile.tsx:255": {
+      "element": {
+        "file": "app/(tabs)/profile.tsx",
+        "line": 255
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/profile.tsx",
+          "properties": {
+            "paddingHorizontal": {
+              "line": 255,
+              "col": 42,
+              "endCol": 44,
+              "raw": "16"
+            },
+            "paddingTop": {
+              "line": 255,
+              "col": 58,
+              "endCol": 60,
+              "raw": "14"
+            },
+            "paddingBottom": {
+              "line": 255,
+              "col": 77,
+              "endCol": 78,
+              "raw": "6"
+            }
+          }
+        }
+      ]
+    },
+    "ProfileScreen@app/(tabs)/profile.tsx:256": {
+      "element": {
+        "file": "app/(tabs)/profile.tsx",
+        "line": 256
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/profile.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 256,
+              "col": 63,
+              "endCol": 65,
+              "raw": "13"
+            },
+            "textTransform": {
+              "line": 256,
+              "col": 107,
+              "endCol": 118,
+              "raw": "'uppercase'"
+            },
+            "letterSpacing": {
+              "line": 256,
+              "col": 135,
+              "endCol": 138,
+              "raw": "0.5"
+            }
+          }
+        }
+      ]
+    },
+    "ProfileScreen@app/(tabs)/profile.tsx:266": {
+      "element": {
+        "file": "app/(tabs)/profile.tsx",
+        "line": 266
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/profile.tsx",
+          "properties": {
+            "height": {
+              "line": 266,
+              "col": 31,
+              "endCol": 32,
+              "raw": "1"
+            },
+            "marginHorizontal": {
+              "line": 266,
+              "col": 89,
+              "endCol": 91,
+              "raw": "16"
+            }
+          }
+        }
+      ]
+    },
+    "ProfileScreen@app/(tabs)/profile.tsx:267": {
+      "element": {
+        "file": "app/(tabs)/profile.tsx",
+        "line": 267
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/profile.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 268,
+              "col": 25,
+              "endCol": 30,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 269,
+              "col": 22,
+              "endCol": 30,
+              "raw": "'center'"
+            },
+            "paddingVertical": {
+              "line": 270,
+              "col": 27,
+              "endCol": 29,
+              "raw": "14"
+            },
+            "paddingHorizontal": {
+              "line": 271,
+              "col": 29,
+              "endCol": 31,
+              "raw": "16"
+            },
+            "gap": {
+              "line": 272,
+              "col": 15,
+              "endCol": 17,
+              "raw": "14"
+            }
+          }
+        }
+      ]
+    },
+    "ProfileScreen@app/(tabs)/profile.tsx:274": {
+      "element": {
+        "file": "app/(tabs)/profile.tsx",
+        "line": 274
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/profile.tsx",
+          "properties": {
+            "width": {
+              "line": 275,
+              "col": 19,
+              "endCol": 21,
+              "raw": "34"
+            },
+            "height": {
+              "line": 276,
+              "col": 20,
+              "endCol": 22,
+              "raw": "34"
+            },
+            "borderRadius": {
+              "line": 277,
+              "col": 26,
+              "endCol": 28,
+              "raw": "10"
+            },
+            "borderCurve": {
+              "line": 278,
+              "col": 25,
+              "endCol": 37,
+              "raw": "'continuous'"
+            },
+            "alignItems": {
+              "line": 280,
+              "col": 24,
+              "endCol": 32,
+              "raw": "'center'"
+            },
+            "justifyContent": {
+              "line": 281,
+              "col": 28,
+              "endCol": 36,
+              "raw": "'center'"
+            }
+          }
+        }
+      ]
+    },
+    "ProfileScreen@app/(tabs)/profile.tsx:285": {
+      "element": {
+        "file": "app/(tabs)/profile.tsx",
+        "line": 285
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/profile.tsx",
+          "properties": {
+            "flex": {
+              "line": 285,
+              "col": 31,
+              "endCol": 32,
+              "raw": "1"
+            },
+            "fontSize": {
+              "line": 285,
+              "col": 70,
+              "endCol": 72,
+              "raw": "14"
+            }
+          }
+        }
+      ]
+    },
+    "ProfileScreen@app/(tabs)/profile.tsx:298": {
+      "element": {
+        "file": "app/(tabs)/profile.tsx",
+        "line": 298
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/profile.tsx",
+          "properties": {
+            "marginHorizontal": {
+              "line": 299,
+              "col": 26,
+              "endCol": 28,
+              "raw": "20"
+            },
+            "borderRadius": {
+              "line": 301,
+              "col": 22,
+              "endCol": 24,
+              "raw": "16"
+            },
+            "borderCurve": {
+              "line": 302,
+              "col": 21,
+              "endCol": 33,
+              "raw": "'continuous'"
+            },
+            "overflow": {
+              "line": 303,
+              "col": 18,
+              "endCol": 26,
+              "raw": "'hidden'"
+            },
+            "boxShadow": {
+              "line": 304,
+              "col": 19,
+              "endCol": 47,
+              "raw": "'0 1px 6px rgba(0,0,0,0.03)'"
+            }
+          }
+        }
+      ]
+    },
+    "ProfileScreen@app/(tabs)/profile.tsx:306": {
+      "element": {
+        "file": "app/(tabs)/profile.tsx",
+        "line": 306
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/profile.tsx",
+          "properties": {
+            "paddingHorizontal": {
+              "line": 306,
+              "col": 42,
+              "endCol": 44,
+              "raw": "16"
+            },
+            "paddingTop": {
+              "line": 306,
+              "col": 58,
+              "endCol": 60,
+              "raw": "14"
+            },
+            "paddingBottom": {
+              "line": 306,
+              "col": 77,
+              "endCol": 78,
+              "raw": "6"
+            }
+          }
+        }
+      ]
+    },
+    "ProfileScreen@app/(tabs)/profile.tsx:307": {
+      "element": {
+        "file": "app/(tabs)/profile.tsx",
+        "line": 307
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/profile.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 307,
+              "col": 63,
+              "endCol": 65,
+              "raw": "13"
+            },
+            "textTransform": {
+              "line": 307,
+              "col": 107,
+              "endCol": 118,
+              "raw": "'uppercase'"
+            },
+            "letterSpacing": {
+              "line": 307,
+              "col": 135,
+              "endCol": 138,
+              "raw": "0.5"
+            }
+          }
+        }
+      ]
+    },
+    "ProfileScreen@app/(tabs)/profile.tsx:317": {
+      "element": {
+        "file": "app/(tabs)/profile.tsx",
+        "line": 317
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/profile.tsx",
+          "properties": {
+            "height": {
+              "line": 317,
+              "col": 31,
+              "endCol": 32,
+              "raw": "1"
+            },
+            "marginHorizontal": {
+              "line": 317,
+              "col": 89,
+              "endCol": 91,
+              "raw": "16"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeDetailScreen@app/library/[id].tsx:45": {
+      "element": {
+        "file": "app/library/[id].tsx",
+        "line": 45
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/library/[id].tsx",
+          "properties": {
+            "flex": {
+              "line": 45,
+              "col": 27,
+              "endCol": 28,
+              "raw": "1"
+            },
+            "alignItems": {
+              "line": 45,
+              "col": 42,
+              "endCol": 50,
+              "raw": "'center'"
+            },
+            "justifyContent": {
+              "line": 45,
+              "col": 68,
+              "endCol": 76,
+              "raw": "'center'"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeDetailScreen@app/library/[id].tsx:47": {
+      "element": {
+        "file": "app/library/[id].tsx",
+        "line": 47
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/library/[id].tsx",
+          "properties": {
+            "fontSize": {
+              "line": 47,
+              "col": 59,
+              "endCol": 61,
+              "raw": "15"
+            },
+            "marginTop": {
+              "line": 47,
+              "col": 99,
+              "endCol": 101,
+              "raw": "12"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeDetailScreen@app/library/[id].tsx:50": {
+      "element": {
+        "file": "app/library/[id].tsx",
+        "line": 50
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/library/[id].tsx",
+          "properties": {
+            "marginTop": {
+              "line": 50,
+              "col": 60,
+              "endCol": 62,
+              "raw": "16"
+            },
+            "padding": {
+              "line": 50,
+              "col": 73,
+              "endCol": 75,
+              "raw": "12"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeDetailScreen@app/library/[id].tsx:51": {
+      "element": {
+        "file": "app/library/[id].tsx",
+        "line": 51
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/library/[id].tsx",
+          "properties": {
+            "fontSize": {
+              "line": 51,
+              "col": 63,
+              "endCol": 65,
+              "raw": "14"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeDetailScreen@app/library/[id].tsx:68": {
+      "element": {
+        "file": "app/library/[id].tsx",
+        "line": 68
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/library/[id].tsx",
+          "properties": {
+            "flex": {
+              "line": 69,
+              "col": 21,
+              "endCol": 22,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeDetailScreen@app/library/[id].tsx:74": {
+      "element": {
+        "file": "app/library/[id].tsx",
+        "line": 74
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/library/[id].tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 74,
+              "col": 36,
+              "endCol": 41,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 74,
+              "col": 55,
+              "endCol": 63,
+              "raw": "'center'"
+            },
+            "justifyContent": {
+              "line": 74,
+              "col": 81,
+              "endCol": 96,
+              "raw": "'space-between'"
+            },
+            "marginBottom": {
+              "line": 74,
+              "col": 112,
+              "endCol": 114,
+              "raw": "20"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeDetailScreen@app/library/[id].tsx:75": {
+      "element": {
+        "file": "app/library/[id].tsx",
+        "line": 75
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/library/[id].tsx",
+          "properties": {
+            "padding": {
+              "line": 75,
+              "col": 58,
+              "endCol": 59,
+              "raw": "6"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeDetailScreen@app/library/[id].tsx:78": {
+      "element": {
+        "file": "app/library/[id].tsx",
+        "line": 78
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/library/[id].tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 78,
+              "col": 38,
+              "endCol": 43,
+              "raw": "'row'"
+            },
+            "gap": {
+              "line": 78,
+              "col": 50,
+              "endCol": 51,
+              "raw": "8"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeDetailScreen@app/library/[id].tsx:79": {
+      "element": {
+        "file": "app/library/[id].tsx",
+        "line": 79
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/library/[id].tsx",
+          "properties": {
+            "padding": {
+              "line": 79,
+              "col": 64,
+              "endCol": 65,
+              "raw": "8"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeDetailScreen@app/library/[id].tsx:86": {
+      "element": {
+        "file": "app/library/[id].tsx",
+        "line": 86
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/library/[id].tsx",
+          "properties": {
+            "padding": {
+              "line": 86,
+              "col": 61,
+              "endCol": 62,
+              "raw": "8"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeDetailScreen@app/library/[id].tsx:93": {
+      "element": {
+        "file": "app/library/[id].tsx",
+        "line": 93
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/library/[id].tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 93,
+              "col": 36,
+              "endCol": 41,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 93,
+              "col": 55,
+              "endCol": 63,
+              "raw": "'center'"
+            },
+            "gap": {
+              "line": 93,
+              "col": 70,
+              "endCol": 71,
+              "raw": "8"
+            },
+            "marginBottom": {
+              "line": 93,
+              "col": 87,
+              "endCol": 89,
+              "raw": "12"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeDetailScreen@app/library/[id].tsx:94": {
+      "element": {
+        "file": "app/library/[id].tsx",
+        "line": 94
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/library/[id].tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 95,
+              "col": 25,
+              "endCol": 30,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 96,
+              "col": 22,
+              "endCol": 30,
+              "raw": "'center'"
+            },
+            "gap": {
+              "line": 97,
+              "col": 15,
+              "endCol": 16,
+              "raw": "6"
+            },
+            "paddingHorizontal": {
+              "line": 99,
+              "col": 29,
+              "endCol": 31,
+              "raw": "12"
+            },
+            "paddingVertical": {
+              "line": 100,
+              "col": 27,
+              "endCol": 28,
+              "raw": "6"
+            },
+            "borderRadius": {
+              "line": 101,
+              "col": 24,
+              "endCol": 26,
+              "raw": "10"
+            },
+            "borderCurve": {
+              "line": 102,
+              "col": 23,
+              "endCol": 35,
+              "raw": "'continuous'"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeDetailScreen@app/library/[id].tsx:105": {
+      "element": {
+        "file": "app/library/[id].tsx",
+        "line": 105
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/library/[id].tsx",
+          "properties": {
+            "fontSize": {
+              "line": 105,
+              "col": 63,
+              "endCol": 65,
+              "raw": "12"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeDetailScreen@app/library/[id].tsx:109": {
+      "element": {
+        "file": "app/library/[id].tsx",
+        "line": 109
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/library/[id].tsx",
+          "properties": {
+            "paddingHorizontal": {
+              "line": 110,
+              "col": 29,
+              "endCol": 31,
+              "raw": "10"
+            },
+            "paddingVertical": {
+              "line": 111,
+              "col": 27,
+              "endCol": 28,
+              "raw": "5"
+            },
+            "borderRadius": {
+              "line": 112,
+              "col": 24,
+              "endCol": 25,
+              "raw": "8"
+            },
+            "borderWidth": {
+              "line": 114,
+              "col": 23,
+              "endCol": 24,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeDetailScreen@app/library/[id].tsx:117": {
+      "element": {
+        "file": "app/library/[id].tsx",
+        "line": 117
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/library/[id].tsx",
+          "properties": {
+            "fontSize": {
+              "line": 117,
+              "col": 61,
+              "endCol": 63,
+              "raw": "11"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeDetailScreen@app/library/[id].tsx:124": {
+      "element": {
+        "file": "app/library/[id].tsx",
+        "line": 124
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/library/[id].tsx",
+          "properties": {
+            "fontSize": {
+              "line": 124,
+              "col": 66,
+              "endCol": 68,
+              "raw": "22"
+            },
+            "marginBottom": {
+              "line": 124,
+              "col": 104,
+              "endCol": 106,
+              "raw": "12"
+            },
+            "lineHeight": {
+              "line": 124,
+              "col": 120,
+              "endCol": 122,
+              "raw": "30"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeDetailScreen@app/library/[id].tsx:129": {
+      "element": {
+        "file": "app/library/[id].tsx",
+        "line": 129
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/library/[id].tsx",
+          "properties": {
+            "borderRadius": {
+              "line": 131,
+              "col": 22,
+              "endCol": 24,
+              "raw": "14"
+            },
+            "borderCurve": {
+              "line": 132,
+              "col": 21,
+              "endCol": 33,
+              "raw": "'continuous'"
+            },
+            "padding": {
+              "line": 133,
+              "col": 17,
+              "endCol": 19,
+              "raw": "16"
+            },
+            "gap": {
+              "line": 134,
+              "col": 13,
+              "endCol": 15,
+              "raw": "10"
+            },
+            "marginBottom": {
+              "line": 135,
+              "col": 22,
+              "endCol": 24,
+              "raw": "20"
+            },
+            "borderWidth": {
+              "line": 136,
+              "col": 21,
+              "endCol": 22,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeDetailScreen@app/library/[id].tsx:139": {
+      "element": {
+        "file": "app/library/[id].tsx",
+        "line": 139
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/library/[id].tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 139,
+              "col": 38,
+              "endCol": 43,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 139,
+              "col": 57,
+              "endCol": 65,
+              "raw": "'center'"
+            },
+            "gap": {
+              "line": 139,
+              "col": 72,
+              "endCol": 74,
+              "raw": "10"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeDetailScreen@app/library/[id].tsx:141": {
+      "element": {
+        "file": "app/library/[id].tsx",
+        "line": 141
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/library/[id].tsx",
+          "properties": {
+            "fontSize": {
+              "line": 141,
+              "col": 62,
+              "endCol": 64,
+              "raw": "13"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeDetailScreen@app/library/[id].tsx:145": {
+      "element": {
+        "file": "app/library/[id].tsx",
+        "line": 145
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/library/[id].tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 145,
+              "col": 38,
+              "endCol": 43,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 145,
+              "col": 57,
+              "endCol": 65,
+              "raw": "'center'"
+            },
+            "gap": {
+              "line": 145,
+              "col": 72,
+              "endCol": 74,
+              "raw": "10"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeDetailScreen@app/library/[id].tsx:147": {
+      "element": {
+        "file": "app/library/[id].tsx",
+        "line": 147
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/library/[id].tsx",
+          "properties": {
+            "fontSize": {
+              "line": 147,
+              "col": 62,
+              "endCol": 64,
+              "raw": "13"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeDetailScreen@app/library/[id].tsx:151": {
+      "element": {
+        "file": "app/library/[id].tsx",
+        "line": 151
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/library/[id].tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 151,
+              "col": 38,
+              "endCol": 43,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 151,
+              "col": 57,
+              "endCol": 65,
+              "raw": "'center'"
+            },
+            "gap": {
+              "line": 151,
+              "col": 72,
+              "endCol": 74,
+              "raw": "10"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeDetailScreen@app/library/[id].tsx:153": {
+      "element": {
+        "file": "app/library/[id].tsx",
+        "line": 153
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/library/[id].tsx",
+          "properties": {
+            "fontSize": {
+              "line": 153,
+              "col": 62,
+              "endCol": 64,
+              "raw": "13"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeDetailScreen@app/library/[id].tsx:158": {
+      "element": {
+        "file": "app/library/[id].tsx",
+        "line": 158
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/library/[id].tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 158,
+              "col": 40,
+              "endCol": 45,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 158,
+              "col": 59,
+              "endCol": 67,
+              "raw": "'center'"
+            },
+            "gap": {
+              "line": 158,
+              "col": 74,
+              "endCol": 76,
+              "raw": "10"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeDetailScreen@app/library/[id].tsx:160": {
+      "element": {
+        "file": "app/library/[id].tsx",
+        "line": 160
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/library/[id].tsx",
+          "properties": {
+            "fontSize": {
+              "line": 160,
+              "col": 64,
+              "endCol": 66,
+              "raw": "13"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeDetailScreen@app/library/[id].tsx:169": {
+      "element": {
+        "file": "app/library/[id].tsx",
+        "line": 169
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/library/[id].tsx",
+          "properties": {
+            "borderRadius": {
+              "line": 171,
+              "col": 24,
+              "endCol": 26,
+              "raw": "14"
+            },
+            "borderCurve": {
+              "line": 172,
+              "col": 23,
+              "endCol": 35,
+              "raw": "'continuous'"
+            },
+            "padding": {
+              "line": 173,
+              "col": 19,
+              "endCol": 21,
+              "raw": "20"
+            },
+            "alignItems": {
+              "line": 174,
+              "col": 22,
+              "endCol": 30,
+              "raw": "'center'"
+            },
+            "gap": {
+              "line": 175,
+              "col": 15,
+              "endCol": 17,
+              "raw": "12"
+            },
+            "marginBottom": {
+              "line": 176,
+              "col": 24,
+              "endCol": 26,
+              "raw": "20"
+            },
+            "borderWidth": {
+              "line": 177,
+              "col": 23,
+              "endCol": 24,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeDetailScreen@app/library/[id].tsx:180": {
+      "element": {
+        "file": "app/library/[id].tsx",
+        "line": 180
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/library/[id].tsx",
+          "properties": {
+            "width": {
+              "line": 181,
+              "col": 19,
+              "endCol": 21,
+              "raw": "56"
+            },
+            "height": {
+              "line": 182,
+              "col": 20,
+              "endCol": 22,
+              "raw": "56"
+            },
+            "borderRadius": {
+              "line": 183,
+              "col": 26,
+              "endCol": 28,
+              "raw": "28"
+            },
+            "alignItems": {
+              "line": 185,
+              "col": 24,
+              "endCol": 32,
+              "raw": "'center'"
+            },
+            "justifyContent": {
+              "line": 186,
+              "col": 28,
+              "endCol": 36,
+              "raw": "'center'"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeDetailScreen@app/library/[id].tsx:194": {
+      "element": {
+        "file": "app/library/[id].tsx",
+        "line": 194
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/library/[id].tsx",
+          "properties": {
+            "fontSize": {
+              "line": 194,
+              "col": 61,
+              "endCol": 63,
+              "raw": "13"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeDetailScreen@app/library/[id].tsx:202": {
+      "element": {
+        "file": "app/library/[id].tsx",
+        "line": 202
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/library/[id].tsx",
+          "properties": {
+            "marginBottom": {
+              "line": 202,
+              "col": 37,
+              "endCol": 39,
+              "raw": "20"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeDetailScreen@app/library/[id].tsx:203": {
+      "element": {
+        "file": "app/library/[id].tsx",
+        "line": 203
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/library/[id].tsx",
+          "properties": {
+            "fontSize": {
+              "line": 203,
+              "col": 63,
+              "endCol": 65,
+              "raw": "15"
+            },
+            "marginBottom": {
+              "line": 203,
+              "col": 101,
+              "endCol": 102,
+              "raw": "8"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeDetailScreen@app/library/[id].tsx:206": {
+      "element": {
+        "file": "app/library/[id].tsx",
+        "line": 206
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/library/[id].tsx",
+          "properties": {
+            "borderRadius": {
+              "line": 208,
+              "col": 26,
+              "endCol": 28,
+              "raw": "12"
+            },
+            "borderCurve": {
+              "line": 209,
+              "col": 25,
+              "endCol": 37,
+              "raw": "'continuous'"
+            },
+            "padding": {
+              "line": 210,
+              "col": 21,
+              "endCol": 23,
+              "raw": "14"
+            },
+            "borderLeftWidth": {
+              "line": 211,
+              "col": 29,
+              "endCol": 30,
+              "raw": "3"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeDetailScreen@app/library/[id].tsx:214": {
+      "element": {
+        "file": "app/library/[id].tsx",
+        "line": 214
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/library/[id].tsx",
+          "properties": {
+            "fontSize": {
+              "line": 214,
+              "col": 75,
+              "endCol": 77,
+              "raw": "14"
+            },
+            "lineHeight": {
+              "line": 214,
+              "col": 120,
+              "endCol": 122,
+              "raw": "21"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeDetailScreen@app/library/[id].tsx:222": {
+      "element": {
+        "file": "app/library/[id].tsx",
+        "line": 222
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/library/[id].tsx",
+          "properties": {
+            "marginBottom": {
+              "line": 222,
+              "col": 35,
+              "endCol": 37,
+              "raw": "20"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeDetailScreen@app/library/[id].tsx:223": {
+      "element": {
+        "file": "app/library/[id].tsx",
+        "line": 223
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/library/[id].tsx",
+          "properties": {
+            "fontSize": {
+              "line": 223,
+              "col": 61,
+              "endCol": 63,
+              "raw": "15"
+            },
+            "marginBottom": {
+              "line": 223,
+              "col": 99,
+              "endCol": 100,
+              "raw": "8"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeDetailScreen@app/library/[id].tsx:226": {
+      "element": {
+        "file": "app/library/[id].tsx",
+        "line": 226
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/library/[id].tsx",
+          "properties": {
+            "fontSize": {
+              "line": 226,
+              "col": 71,
+              "endCol": 73,
+              "raw": "14"
+            },
+            "lineHeight": {
+              "line": 226,
+              "col": 116,
+              "endCol": 118,
+              "raw": "22"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeDetailScreen@app/library/[id].tsx:233": {
+      "element": {
+        "file": "app/library/[id].tsx",
+        "line": 233
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/library/[id].tsx",
+          "properties": {
+            "marginBottom": {
+              "line": 233,
+              "col": 37,
+              "endCol": 39,
+              "raw": "20"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeDetailScreen@app/library/[id].tsx:234": {
+      "element": {
+        "file": "app/library/[id].tsx",
+        "line": 234
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/library/[id].tsx",
+          "properties": {
+            "fontSize": {
+              "line": 234,
+              "col": 63,
+              "endCol": 65,
+              "raw": "15"
+            },
+            "marginBottom": {
+              "line": 234,
+              "col": 101,
+              "endCol": 102,
+              "raw": "8"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeDetailScreen@app/library/[id].tsx:237": {
+      "element": {
+        "file": "app/library/[id].tsx",
+        "line": 237
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/library/[id].tsx",
+          "properties": {
+            "fontSize": {
+              "line": 237,
+              "col": 73,
+              "endCol": 75,
+              "raw": "14"
+            },
+            "lineHeight": {
+              "line": 237,
+              "col": 118,
+              "endCol": 120,
+              "raw": "22"
+            },
+            "fontStyle": {
+              "line": 237,
+              "col": 133,
+              "endCol": 141,
+              "raw": "'italic'"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeDetailScreen@app/library/[id].tsx:245": {
+      "element": {
+        "file": "app/library/[id].tsx",
+        "line": 245
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/library/[id].tsx",
+          "properties": {
+            "marginBottom": {
+              "line": 245,
+              "col": 37,
+              "endCol": 39,
+              "raw": "20"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeDetailScreen@app/library/[id].tsx:246": {
+      "element": {
+        "file": "app/library/[id].tsx",
+        "line": 246
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/library/[id].tsx",
+          "properties": {
+            "fontSize": {
+              "line": 246,
+              "col": 63,
+              "endCol": 65,
+              "raw": "15"
+            },
+            "marginBottom": {
+              "line": 246,
+              "col": 101,
+              "endCol": 103,
+              "raw": "10"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeDetailScreen@app/library/[id].tsx:249": {
+      "element": {
+        "file": "app/library/[id].tsx",
+        "line": 249
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/library/[id].tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 249,
+              "col": 40,
+              "endCol": 45,
+              "raw": "'row'"
+            },
+            "flexWrap": {
+              "line": 249,
+              "col": 57,
+              "endCol": 63,
+              "raw": "'wrap'"
+            },
+            "gap": {
+              "line": 249,
+              "col": 70,
+              "endCol": 71,
+              "raw": "8"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeDetailScreen@app/library/[id].tsx:251": {
+      "element": {
+        "file": "app/library/[id].tsx",
+        "line": 251
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/library/[id].tsx",
+          "properties": {
+            "borderRadius": {
+              "line": 253,
+              "col": 30,
+              "endCol": 31,
+              "raw": "8"
+            },
+            "borderCurve": {
+              "line": 254,
+              "col": 29,
+              "endCol": 41,
+              "raw": "'continuous'"
+            },
+            "paddingVertical": {
+              "line": 255,
+              "col": 33,
+              "endCol": 34,
+              "raw": "6"
+            },
+            "paddingHorizontal": {
+              "line": 256,
+              "col": 35,
+              "endCol": 37,
+              "raw": "12"
+            }
+          }
+        }
+      ]
+    },
+    "KnowledgeDetailScreen@app/library/[id].tsx:258": {
+      "element": {
+        "file": "app/library/[id].tsx",
+        "line": 258
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/library/[id].tsx",
+          "properties": {
+            "fontSize": {
+              "line": 258,
+              "col": 67,
+              "endCol": 69,
+              "raw": "12"
+            }
+          }
+        }
+      ]
+    },
+    "ReviewScreen@app/review/index.tsx:136": {
+      "element": {
+        "file": "app/review/index.tsx",
+        "line": 136
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/review/index.tsx",
+          "properties": {
+            "flex": {
+              "line": 136,
+              "col": 27,
+              "endCol": 28,
+              "raw": "1"
+            },
+            "alignItems": {
+              "line": 136,
+              "col": 42,
+              "endCol": 50,
+              "raw": "'center'"
+            },
+            "justifyContent": {
+              "line": 136,
+              "col": 68,
+              "endCol": 76,
+              "raw": "'center'"
+            }
+          }
+        }
+      ]
+    },
+    "ReviewScreen@app/review/index.tsx:138": {
+      "element": {
+        "file": "app/review/index.tsx",
+        "line": 138
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/review/index.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 138,
+              "col": 59,
+              "endCol": 61,
+              "raw": "15"
+            },
+            "marginTop": {
+              "line": 138,
+              "col": 99,
+              "endCol": 101,
+              "raw": "12"
+            }
+          }
+        }
+      ]
+    },
+    "ReviewScreen@app/review/index.tsx:141": {
+      "element": {
+        "file": "app/review/index.tsx",
+        "line": 141
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/review/index.tsx",
+          "properties": {
+            "marginTop": {
+              "line": 141,
+              "col": 60,
+              "endCol": 62,
+              "raw": "16"
+            },
+            "padding": {
+              "line": 141,
+              "col": 73,
+              "endCol": 75,
+              "raw": "12"
+            }
+          }
+        }
+      ]
+    },
+    "ReviewScreen@app/review/index.tsx:142": {
+      "element": {
+        "file": "app/review/index.tsx",
+        "line": 142
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/review/index.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 142,
+              "col": 63,
+              "endCol": 65,
+              "raw": "14"
+            }
+          }
+        }
+      ]
+    },
+    "ReviewScreen@app/review/index.tsx:153": {
+      "element": {
+        "file": "app/review/index.tsx",
+        "line": 153
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/review/index.tsx",
+          "properties": {
+            "flex": {
+              "line": 154,
+              "col": 21,
+              "endCol": 22,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "ReviewScreen@app/review/index.tsx:159": {
+      "element": {
+        "file": "app/review/index.tsx",
+        "line": 159
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/review/index.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 159,
+              "col": 36,
+              "endCol": 41,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 159,
+              "col": 55,
+              "endCol": 63,
+              "raw": "'center'"
+            },
+            "gap": {
+              "line": 159,
+              "col": 70,
+              "endCol": 72,
+              "raw": "12"
+            },
+            "marginBottom": {
+              "line": 159,
+              "col": 88,
+              "endCol": 90,
+              "raw": "20"
+            }
+          }
+        }
+      ]
+    },
+    "ReviewScreen@app/review/index.tsx:160": {
+      "element": {
+        "file": "app/review/index.tsx",
+        "line": 160
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/review/index.tsx",
+          "properties": {
+            "padding": {
+              "line": 160,
+              "col": 58,
+              "endCol": 59,
+              "raw": "6"
+            }
+          }
+        }
+      ]
+    },
+    "ReviewScreen@app/review/index.tsx:163": {
+      "element": {
+        "file": "app/review/index.tsx",
+        "line": 163
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/review/index.tsx",
+          "properties": {
+            "flex": {
+              "line": 163,
+              "col": 29,
+              "endCol": 30,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "ReviewScreen@app/review/index.tsx:164": {
+      "element": {
+        "file": "app/review/index.tsx",
+        "line": 164
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/review/index.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 164,
+              "col": 59,
+              "endCol": 61,
+              "raw": "20"
+            }
+          }
+        }
+      ]
+    },
+    "ReviewScreen@app/review/index.tsx:167": {
+      "element": {
+        "file": "app/review/index.tsx",
+        "line": 167
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/review/index.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 167,
+              "col": 62,
+              "endCol": 64,
+              "raw": "12"
+            }
+          }
+        }
+      ]
+    },
+    "ReviewScreen@app/review/index.tsx:175": {
+      "element": {
+        "file": "app/review/index.tsx",
+        "line": 175
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/review/index.tsx",
+          "properties": {
+            "borderRadius": {
+              "line": 177,
+              "col": 24,
+              "endCol": 26,
+              "raw": "14"
+            },
+            "borderCurve": {
+              "line": 178,
+              "col": 23,
+              "endCol": 35,
+              "raw": "'continuous'"
+            },
+            "padding": {
+              "line": 179,
+              "col": 19,
+              "endCol": 21,
+              "raw": "18"
+            },
+            "flexDirection": {
+              "line": 180,
+              "col": 25,
+              "endCol": 30,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 181,
+              "col": 22,
+              "endCol": 30,
+              "raw": "'center'"
+            },
+            "gap": {
+              "line": 182,
+              "col": 15,
+              "endCol": 17,
+              "raw": "14"
+            },
+            "marginBottom": {
+              "line": 183,
+              "col": 24,
+              "endCol": 26,
+              "raw": "20"
+            },
+            "borderWidth": {
+              "line": 184,
+              "col": 23,
+              "endCol": 24,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "ReviewScreen@app/review/index.tsx:188": {
+      "element": {
+        "file": "app/review/index.tsx",
+        "line": 188
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/review/index.tsx",
+          "properties": {
+            "flex": {
+              "line": 188,
+              "col": 31,
+              "endCol": 32,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "ReviewScreen@app/review/index.tsx:189": {
+      "element": {
+        "file": "app/review/index.tsx",
+        "line": 189
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/review/index.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 189,
+              "col": 65,
+              "endCol": 67,
+              "raw": "14"
+            }
+          }
+        }
+      ]
+    },
+    "ReviewScreen@app/review/index.tsx:192": {
+      "element": {
+        "file": "app/review/index.tsx",
+        "line": 192
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/review/index.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 192,
+              "col": 64,
+              "endCol": 66,
+              "raw": "12"
+            },
+            "marginTop": {
+              "line": 192,
+              "col": 104,
+              "endCol": 105,
+              "raw": "2"
+            }
+          }
+        }
+      ]
+    },
+    "ReviewScreen@app/review/index.tsx:200": {
+      "element": {
+        "file": "app/review/index.tsx",
+        "line": 200
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/review/index.tsx",
+          "properties": {
+            "borderRadius": {
+              "line": 202,
+              "col": 22,
+              "endCol": 24,
+              "raw": "16"
+            },
+            "borderCurve": {
+              "line": 203,
+              "col": 21,
+              "endCol": 33,
+              "raw": "'continuous'"
+            },
+            "padding": {
+              "line": 204,
+              "col": 17,
+              "endCol": 19,
+              "raw": "18"
+            },
+            "marginBottom": {
+              "line": 205,
+              "col": 22,
+              "endCol": 24,
+              "raw": "16"
+            },
+            "borderWidth": {
+              "line": 206,
+              "col": 21,
+              "endCol": 22,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "ReviewScreen@app/review/index.tsx:209": {
+      "element": {
+        "file": "app/review/index.tsx",
+        "line": 209
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/review/index.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 209,
+              "col": 57,
+              "endCol": 59,
+              "raw": "16"
+            },
+            "marginBottom": {
+              "line": 209,
+              "col": 95,
+              "endCol": 96,
+              "raw": "8"
+            }
+          }
+        }
+      ]
+    },
+    "ReviewScreen@app/review/index.tsx:213": {
+      "element": {
+        "file": "app/review/index.tsx",
+        "line": 213
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/review/index.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 213,
+              "col": 40,
+              "endCol": 45,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 213,
+              "col": 59,
+              "endCol": 67,
+              "raw": "'center'"
+            },
+            "gap": {
+              "line": 213,
+              "col": 74,
+              "endCol": 75,
+              "raw": "6"
+            },
+            "marginBottom": {
+              "line": 213,
+              "col": 91,
+              "endCol": 93,
+              "raw": "10"
+            }
+          }
+        }
+      ]
+    },
+    "ReviewScreen@app/review/index.tsx:214": {
+      "element": {
+        "file": "app/review/index.tsx",
+        "line": 214
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/review/index.tsx",
+          "properties": {
+            "paddingHorizontal": {
+              "line": 215,
+              "col": 33,
+              "endCol": 35,
+              "raw": "10"
+            },
+            "paddingVertical": {
+              "line": 216,
+              "col": 31,
+              "endCol": 32,
+              "raw": "4"
+            },
+            "borderRadius": {
+              "line": 217,
+              "col": 28,
+              "endCol": 29,
+              "raw": "8"
+            }
+          }
+        }
+      ]
+    },
+    "ReviewScreen@app/review/index.tsx:220": {
+      "element": {
+        "file": "app/review/index.tsx",
+        "line": 220
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/review/index.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 220,
+              "col": 65,
+              "endCol": 67,
+              "raw": "11"
+            }
+          }
+        }
+      ]
+    },
+    "ReviewScreen@app/review/index.tsx:224": {
+      "element": {
+        "file": "app/review/index.tsx",
+        "line": 224
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/review/index.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 224,
+              "col": 64,
+              "endCol": 66,
+              "raw": "12"
+            }
+          }
+        }
+      ]
+    },
+    "ReviewScreen@app/review/index.tsx:229": {
+      "element": {
+        "file": "app/review/index.tsx",
+        "line": 229
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/review/index.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 229,
+              "col": 60,
+              "endCol": 62,
+              "raw": "13"
+            },
+            "lineHeight": {
+              "line": 229,
+              "col": 105,
+              "endCol": 107,
+              "raw": "20"
+            }
+          }
+        }
+      ]
+    },
+    "ReviewScreen@app/review/index.tsx:238": {
+      "element": {
+        "file": "app/review/index.tsx",
+        "line": 238
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/review/index.tsx",
+          "properties": {
+            "borderRadius": {
+              "line": 240,
+              "col": 26,
+              "endCol": 28,
+              "raw": "16"
+            },
+            "borderCurve": {
+              "line": 241,
+              "col": 25,
+              "endCol": 37,
+              "raw": "'continuous'"
+            },
+            "padding": {
+              "line": 242,
+              "col": 21,
+              "endCol": 23,
+              "raw": "18"
+            },
+            "marginBottom": {
+              "line": 243,
+              "col": 26,
+              "endCol": 28,
+              "raw": "16"
+            },
+            "borderWidth": {
+              "line": 244,
+              "col": 25,
+              "endCol": 26,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "ReviewScreen@app/review/index.tsx:247": {
+      "element": {
+        "file": "app/review/index.tsx",
+        "line": 247
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/review/index.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 247,
+              "col": 42,
+              "endCol": 47,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 247,
+              "col": 61,
+              "endCol": 69,
+              "raw": "'center'"
+            },
+            "justifyContent": {
+              "line": 247,
+              "col": 87,
+              "endCol": 102,
+              "raw": "'space-between'"
+            },
+            "marginBottom": {
+              "line": 247,
+              "col": 118,
+              "endCol": 120,
+              "raw": "10"
+            }
+          }
+        }
+      ]
+    },
+    "ReviewScreen@app/review/index.tsx:248": {
+      "element": {
+        "file": "app/review/index.tsx",
+        "line": 248
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/review/index.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 248,
+              "col": 44,
+              "endCol": 49,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 248,
+              "col": 63,
+              "endCol": 71,
+              "raw": "'center'"
+            },
+            "gap": {
+              "line": 248,
+              "col": 78,
+              "endCol": 79,
+              "raw": "8"
+            }
+          }
+        }
+      ]
+    },
+    "ReviewScreen@app/review/index.tsx:250": {
+      "element": {
+        "file": "app/review/index.tsx",
+        "line": 250
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/review/index.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 250,
+              "col": 69,
+              "endCol": 71,
+              "raw": "14"
+            }
+          }
+        }
+      ]
+    },
+    "ReviewScreen@app/review/index.tsx:254": {
+      "element": {
+        "file": "app/review/index.tsx",
+        "line": 254
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/review/index.tsx",
+          "properties": {
+            "padding": {
+              "line": 254,
+              "col": 94,
+              "endCol": 95,
+              "raw": "4"
+            }
+          }
+        }
+      ]
+    },
+    "ReviewScreen@app/review/index.tsx:259": {
+      "element": {
+        "file": "app/review/index.tsx",
+        "line": 259
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/review/index.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 265,
+              "col": 28,
+              "endCol": 30,
+              "raw": "13"
+            },
+            "borderRadius": {
+              "line": 268,
+              "col": 32,
+              "endCol": 34,
+              "raw": "10"
+            },
+            "padding": {
+              "line": 269,
+              "col": 27,
+              "endCol": 29,
+              "raw": "12"
+            },
+            "minHeight": {
+              "line": 270,
+              "col": 29,
+              "endCol": 31,
+              "raw": "60"
+            }
+          }
+        }
+      ]
+    },
+    "ReviewScreen@app/review/index.tsx:274": {
+      "element": {
+        "file": "app/review/index.tsx",
+        "line": 274
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/review/index.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 274,
+              "col": 66,
+              "endCol": 68,
+              "raw": "13"
+            },
+            "lineHeight": {
+              "line": 274,
+              "col": 111,
+              "endCol": 113,
+              "raw": "20"
+            }
+          }
+        }
+      ]
+    },
+    "ReviewScreen@app/review/index.tsx:281": {
+      "element": {
+        "file": "app/review/index.tsx",
+        "line": 281
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/review/index.tsx",
+          "properties": {
+            "borderRadius": {
+              "line": 283,
+              "col": 26,
+              "endCol": 28,
+              "raw": "16"
+            },
+            "borderCurve": {
+              "line": 284,
+              "col": 25,
+              "endCol": 37,
+              "raw": "'continuous'"
+            },
+            "padding": {
+              "line": 285,
+              "col": 21,
+              "endCol": 23,
+              "raw": "18"
+            },
+            "marginBottom": {
+              "line": 286,
+              "col": 26,
+              "endCol": 28,
+              "raw": "16"
+            },
+            "borderWidth": {
+              "line": 287,
+              "col": 25,
+              "endCol": 26,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "ReviewScreen@app/review/index.tsx:290": {
+      "element": {
+        "file": "app/review/index.tsx",
+        "line": 290
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/review/index.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 290,
+              "col": 42,
+              "endCol": 47,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 290,
+              "col": 61,
+              "endCol": 69,
+              "raw": "'center'"
+            },
+            "gap": {
+              "line": 290,
+              "col": 76,
+              "endCol": 77,
+              "raw": "8"
+            },
+            "marginBottom": {
+              "line": 290,
+              "col": 93,
+              "endCol": 95,
+              "raw": "12"
+            }
+          }
+        }
+      ]
+    },
+    "ReviewScreen@app/review/index.tsx:292": {
+      "element": {
+        "file": "app/review/index.tsx",
+        "line": 292
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/review/index.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 292,
+              "col": 67,
+              "endCol": 69,
+              "raw": "14"
+            }
+          }
+        }
+      ]
+    },
+    "ReviewScreen@app/review/index.tsx:296": {
+      "element": {
+        "file": "app/review/index.tsx",
+        "line": 296
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/review/index.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 296,
+              "col": 42,
+              "endCol": 47,
+              "raw": "'row'"
+            },
+            "flexWrap": {
+              "line": 296,
+              "col": 59,
+              "endCol": 65,
+              "raw": "'wrap'"
+            },
+            "gap": {
+              "line": 296,
+              "col": 72,
+              "endCol": 73,
+              "raw": "8"
+            }
+          }
+        }
+      ]
+    },
+    "ReviewScreen@app/review/index.tsx:298": {
+      "element": {
+        "file": "app/review/index.tsx",
+        "line": 298
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/review/index.tsx",
+          "properties": {
+            "borderRadius": {
+              "line": 300,
+              "col": 32,
+              "endCol": 33,
+              "raw": "8"
+            },
+            "borderCurve": {
+              "line": 301,
+              "col": 31,
+              "endCol": 43,
+              "raw": "'continuous'"
+            },
+            "paddingVertical": {
+              "line": 302,
+              "col": 35,
+              "endCol": 36,
+              "raw": "6"
+            },
+            "paddingHorizontal": {
+              "line": 303,
+              "col": 37,
+              "endCol": 39,
+              "raw": "12"
+            }
+          }
+        }
+      ]
+    },
+    "ReviewScreen@app/review/index.tsx:305": {
+      "element": {
+        "file": "app/review/index.tsx",
+        "line": 305
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/review/index.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 305,
+              "col": 69,
+              "endCol": 71,
+              "raw": "12"
+            }
+          }
+        }
+      ]
+    },
+    "ReviewScreen@app/review/index.tsx:314": {
+      "element": {
+        "file": "app/review/index.tsx",
+        "line": 314
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/review/index.tsx",
+          "properties": {
+            "borderRadius": {
+              "line": 316,
+              "col": 26,
+              "endCol": 28,
+              "raw": "16"
+            },
+            "borderCurve": {
+              "line": 317,
+              "col": 25,
+              "endCol": 37,
+              "raw": "'continuous'"
+            },
+            "padding": {
+              "line": 318,
+              "col": 21,
+              "endCol": 23,
+              "raw": "18"
+            },
+            "marginBottom": {
+              "line": 319,
+              "col": 26,
+              "endCol": 28,
+              "raw": "24"
+            },
+            "borderWidth": {
+              "line": 320,
+              "col": 25,
+              "endCol": 26,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "ReviewScreen@app/review/index.tsx:323": {
+      "element": {
+        "file": "app/review/index.tsx",
+        "line": 323
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/review/index.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 323,
+              "col": 42,
+              "endCol": 47,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 323,
+              "col": 61,
+              "endCol": 69,
+              "raw": "'center'"
+            },
+            "gap": {
+              "line": 323,
+              "col": 76,
+              "endCol": 77,
+              "raw": "8"
+            },
+            "marginBottom": {
+              "line": 323,
+              "col": 93,
+              "endCol": 94,
+              "raw": "8"
+            }
+          }
+        }
+      ]
+    },
+    "ReviewScreen@app/review/index.tsx:325": {
+      "element": {
+        "file": "app/review/index.tsx",
+        "line": 325
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/review/index.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 325,
+              "col": 67,
+              "endCol": 69,
+              "raw": "14"
+            }
+          }
+        }
+      ]
+    },
+    "ReviewScreen@app/review/index.tsx:329": {
+      "element": {
+        "file": "app/review/index.tsx",
+        "line": 329
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/review/index.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 329,
+              "col": 63,
+              "endCol": 65,
+              "raw": "13"
+            }
+          }
+        }
+      ]
+    },
+    "ReviewScreen@app/review/index.tsx:335": {
+      "element": {
+        "file": "app/review/index.tsx",
+        "line": 335
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/review/index.tsx",
+          "properties": {
+            "gap": {
+              "line": 335,
+              "col": 30,
+              "endCol": 32,
+              "raw": "12"
+            }
+          }
+        }
+      ]
+    },
+    "ReviewScreen@app/review/index.tsx:336": {
+      "element": {
+        "file": "app/review/index.tsx",
+        "line": 336
+      },
+      "styles": [
+        {
+          "origin": "dynamic",
+          "resolvable": false
+        }
+      ]
+    },
+    "ReviewScreen@app/review/index.tsx:352": {
+      "element": {
+        "file": "app/review/index.tsx",
+        "line": 352
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/review/index.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 352,
+              "col": 63,
+              "endCol": 65,
+              "raw": "15"
+            },
+            "color": {
+              "line": 352,
+              "col": 74,
+              "endCol": 80,
+              "raw": "'#fff'"
+            }
+          }
+        }
+      ]
+    },
+    "ReviewScreen@app/review/index.tsx:356": {
+      "element": {
+        "file": "app/review/index.tsx",
+        "line": 356
+      },
+      "styles": [
+        {
+          "origin": "dynamic",
+          "resolvable": false
+        }
+      ]
+    },
+    "ReviewScreen@app/review/index.tsx:369": {
+      "element": {
+        "file": "app/review/index.tsx",
+        "line": 369
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/review/index.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 369,
+              "col": 67,
+              "endCol": 69,
+              "raw": "15"
             }
           }
         }

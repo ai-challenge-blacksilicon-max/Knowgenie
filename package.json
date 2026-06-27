@@ -7,9 +7,10 @@
     "test": "jest --forceExit --no-cache"
   },
   "dependencies": {
-    "@expo/cli": "^54.0.10",
     "@expo-google-fonts/inter": "^0.4.2",
+    "@expo/cli": "^54.0.10",
     "@expo/vector-icons": "^15.0.2",
+    "@fastshot/ai": "^1.0.8",
     "@radix-ui/react-dialog": "^1.1.15",
     "@react-native-async-storage/async-storage": "^2.2.0",
     "@react-native-community/datetimepicker": "8.4.4",

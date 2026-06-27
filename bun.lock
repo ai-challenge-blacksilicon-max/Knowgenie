@@ -8,6 +8,7 @@
         "@expo-google-fonts/inter": "^0.4.2",
         "@expo/cli": "^54.0.10",
         "@expo/vector-icons": "^15.0.2",
+        "@fastshot/ai": "^1.0.8",
         "@radix-ui/react-dialog": "^1.1.15",
         "@react-native-async-storage/async-storage": "^2.2.0",
         "@react-native-community/datetimepicker": "8.4.4",
@@ -372,6 +373,8 @@
     "@expo/ws-tunnel": ["@expo/ws-tunnel@1.0.6", "", {}, "sha512-nDRbLmSrJar7abvUjp3smDwH8HcbZcoOEa5jVPUv9/9CajgmWw20JNRwTuBRzWIWIkEJDkz20GoNA+tSwUqk0Q=="],
 
     "@expo/xcpretty": ["@expo/xcpretty@4.4.2", "", { "dependencies": { "@babel/code-frame": "^7.20.0", "chalk": "^4.1.0", "js-yaml": "^4.1.0" }, "bin": { "excpretty": "build/cli.js" } }, "sha512-ni4WJrmmY43GB1d++iTB7OD7JQlwGarrdhS7pb/ibJKrRIf/HOeuTZndPalXM2QOD7JpfZ/51QprRU9UOjTROw=="],
+
+    "@fastshot/ai": ["@fastshot/ai@1.0.8", "", { "dependencies": { "babel-plugin-transform-inline-environment-variables": "^0.4.4", "expo-file-system": "^19.0.21" }, "peerDependencies": { "react": "^19.0.0", "react-native": ">=0.70.0" } }, "sha512-hXmegv6ZEkhoJwQijTx9ZDCel0gvAQyPyWe0u6mP01TS/R/WwcLQMwC2S3eVGzqmQHwoUjhxIt4Lh+Q0yoW6HQ=="],
 
     "@humanfs/core": ["@humanfs/core@0.19.1", "", {}, "sha512-5DyQ4+1JEUzejeK1JGICcideyfUbGixgS9jNgex5nqkW+cY7WZhxBigmieN5Qnw9ZosSNVC9KQKyb+GUaGyKUA=="],
 
