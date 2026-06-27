@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Knowgenie",
+    "name": "Knowgenie ",
     "slug": "knowgenie",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -36,8 +36,7 @@
       ]
     ],
     "experiments": {
-      "typedRoutes": true,
-      "baseUrl": "/03b21a18-cede-4d45-9346-319b01b1ba83/233b21706785de3c/"
+      "typedRoutes": true
     }
   }
 }
