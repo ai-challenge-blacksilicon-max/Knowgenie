@@ -2,7 +2,7 @@ export type KnowledgeDomain = 'medicine' | 'agriculture' | 'culture' | 'craft';
 export type MediaType = 'text' | 'audio' | 'video' | 'photo' | 'mixed';
 export type KnowledgeStatus = 'draft' | 'reviewed' | 'published';
 
-export interface Knowledge {
+export interface JAAMU {
   id: string;
   title: string;
   content: string;
