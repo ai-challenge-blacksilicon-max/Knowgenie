@@ -1,4 +1,4 @@
-import { View, Text, TextInput, Pressable, FlatList, ActivityIndicator, KeyboardAvoidingView, Platform } from 'react-native';
+import { View, Text, TextInput, Pressable, FlatList, ActivityIndicator, KeyboardAvoidingView, Platform, Alert } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { useState, useCallback, useRef, useMemo } from 'react';
@@ -78,6 +78,7 @@ export default function AssistantScreen() {
   const insets = useSafeAreaInsets();
   const chatMessages = useAppStore((s) => s.chatMessages);
   const addChatMessage = useAppStore((s) => s.addChatMessage);
+  const clearChat = useAppStore((s) => s.clearChat);
   const knowledgeItems = useAppStore((s) => s.knowledgeItems);
   const flatListRef = useRef<FlatList>(null);
 
@@ -150,6 +151,18 @@ Réponds de manière concise et utile, en te basant sur la base de connaissances
     sendMessage(inputText);
   }, [inputText, sendMessage]);
 
+  const handleClearChat = useCallback(() => {
+    if (chatMessages.length === 0) return;
+    Alert.alert(
+      'Effacer la conversation',
+      'Voulez-vous supprimer tout l\'historique de chat ?',
+      [
+        { text: 'Annuler', style: 'cancel' },
+        { text: 'Effacer', style: 'destructive', onPress: () => clearChat() },
+      ]
+    );
+  }, [chatMessages.length, clearChat]);
+
   const handleSuggestion = useCallback((suggestion: string) => {
     sendMessage(suggestion);
   }, [sendMessage]);
@@ -187,7 +200,7 @@ Réponds de manière concise et utile, en te basant sur la base de connaissances
           }}>
             <Ionicons name="sparkles" size={20} color={Colors.primary} />
           </View>
-          <View>
+          <View style={{ flex: 1 }}>
             <Text style={{ fontFamily: Fonts.bold, fontSize: 17, color: Colors.text }}>
               Assistant IA
             </Text>
@@ -195,6 +208,11 @@ Réponds de manière concise et utile, en te basant sur la base de connaissances
               Posez vos questions sur les savoirs traditionnels
             </Text>
           </View>
+          {chatMessages.length > 0 && (
+            <Pressable onPress={handleClearChat} style={{ padding: 8 }}>
+              <Ionicons name="trash-outline" size={20} color={Colors.textMuted} />
+            </Pressable>
+          )}
         </View>
       </View>
 

@@ -30,7 +30,6 @@ interface PreferencesSlice {
 interface DraftSlice {
   draftKnowledge: Partial<Knowledge> | null;
   setDraftKnowledge: (draft: Partial<Knowledge> | null) => void;
-  updateDraft: (updates: Partial<Knowledge>) => void;
 }
 
 export type AppStore = KnowledgeSlice & ChatSlice & ProfileSlice & PreferencesSlice & DraftSlice;
@@ -199,11 +198,6 @@ export const useAppStore = create<AppStore>()(
 
       draftKnowledge: null,
       setDraftKnowledge: (draft) => set({ draftKnowledge: draft }),
-      updateDraft: (updates) => set((state) => ({
-        draftKnowledge: state.draftKnowledge
-          ? { ...state.draftKnowledge, ...updates }
-          : updates,
-      })),
     }),
     {
       name: 'afriknowledge-storage',

@@ -23,6 +23,8 @@ export default function KnowledgeDetailScreen() {
   const { id } = useLocalSearchParams<{ id: string }>();
   const knowledgeItems = useAppStore((s) => s.knowledgeItems);
   const toggleFavorite = useAppStore((s) => s.toggleFavorite);
+  const deleteKnowledge = useAppStore((s) => s.deleteKnowledge);
+  const updateKnowledge = useAppStore((s) => s.updateKnowledge);
 
   const item = useMemo(() => knowledgeItems.find((k) => k.id === id), [knowledgeItems, id]);
 
@@ -36,9 +38,38 @@ export default function KnowledgeDetailScreen() {
     }
   }, [id, toggleFavorite]);
 
+  const handleDelete = useCallback(() => {
+    if (!id) return;
+    Alert.alert(
+      'Supprimer ce savoir',
+      'Cette action est irréversible. Voulez-vous continuer ?',
+      [
+        { text: 'Annuler', style: 'cancel' },
+        {
+          text: 'Supprimer',
+          style: 'destructive',
+          onPress: () => {
+            deleteKnowledge(id);
+            router.back();
+          },
+        },
+      ]
+    );
+  }, [id, deleteKnowledge, router]);
+
   const handleShare = useCallback(() => {
     Alert.alert('Partager', 'Fonctionnalité de partage disponible prochainement.');
   }, []);
+
+  const handleStatusUpdate = useCallback(() => {
+    if (!id) return;
+    const currentItem = knowledgeItems.find((k) => k.id === id);
+    if (!currentItem) return;
+    const nextStatus = currentItem.status === 'published' ? 'reviewed' : 'published';
+    updateKnowledge(id, { status: nextStatus });
+    const label = nextStatus === 'published' ? 'publié' : 'révisé';
+    Alert.alert('Statut mis à jour', `Le savoir est maintenant "${label}".`);
+  }, [id, knowledgeItems, updateKnowledge]);
 
   if (!item) {
     return (
@@ -85,6 +116,9 @@ export default function KnowledgeDetailScreen() {
           </Pressable>
           <Pressable onPress={handleShare} style={{ padding: 8 }}>
             <Ionicons name="share-outline" size={22} color={Colors.text} />
+          </Pressable>
+          <Pressable onPress={handleDelete} style={{ padding: 8 }}>
+            <Ionicons name="trash-outline" size={22} color={Colors.error} />
           </Pressable>
         </View>
       </View>
@@ -262,6 +296,31 @@ export default function KnowledgeDetailScreen() {
             ))}
           </View>
         </View>
+      )}
+
+      {/* Status Action */}
+      {item.status !== 'draft' && (
+        <Pressable
+          onPress={handleStatusUpdate}
+          style={({ pressed }) => ({
+            opacity: pressed ? 0.8 : 1,
+            backgroundColor: Colors.surface,
+            borderRadius: 14,
+            borderCurve: 'continuous',
+            paddingVertical: 14,
+            alignItems: 'center',
+            flexDirection: 'row',
+            justifyContent: 'center',
+            gap: 8,
+            borderWidth: 1,
+            borderColor: Colors.border,
+          })}
+        >
+          <Ionicons name="checkmark-done" size={18} color={Colors.primary} />
+          <Text style={{ fontFamily: Fonts.medium, fontSize: 14, color: Colors.primary }}>
+            {item.status === 'published' ? 'Marquer comme révisé' : 'Republier'}
+          </Text>
+        </Pressable>
       )}
     </ScrollView>
   );
